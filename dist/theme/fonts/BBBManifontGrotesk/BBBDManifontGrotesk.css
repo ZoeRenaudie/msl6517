@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BBBManifontGrotesk';
+    src: url('./BBBManifontGrotesk-Book.woff') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BBBManifontGrotesk';
+    src: url('./BBBManifontGrotesk-BookItalic.woff') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}

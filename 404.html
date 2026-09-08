@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        // Redirection 404 pour GitHub Pages
+        const path = window.location.pathname.split('/').filter(p => p);
+        const lastSegment = path[path.length - 1];
+        
+        if (lastSegment && lastSegment !== 'index.html') {
+            window.location.href = '/' + lastSegment + '/';
+        }
+    </script>
+</head>
+<body></body>
+</html>

@@ -1,0 +1,301 @@
+/**
+ * black-custom.css
+ * Version fond noir du thème custom, dérivé de white-custom.css.
+ * Conserve les polices BBB (BBBManifontGrotesk pour les titres,
+ * BBBDMSans pour le texte courant, IBM Plex Mono pour le code).
+ *
+ * Charger APRES dist/reveal.css (ou dist/theme/black.css si vous
+ * partez de ce thème plutôt que white.css) :
+ *   <link rel="stylesheet" href="../dist/theme/black.css">
+ *   <link rel="stylesheet" href="../dist/theme/black-custom.css">
+ */
+
+@import url(./fonts/ibm-plex-mono/ibm-plex-mono.css);
+@import url(./fonts/ibm-plex-sans/ibm-plex-sans.css);
+@import url(./fonts/ibm-plex-sans-condensed/ibm-plex-sans-condensed.css);
+@import url(./fonts/BBBManifontGrotesk/BBBDManifontGrotesk.css);
+@import url(./fonts/BBBDMSans/BBBDMSans.css);
+
+/*********************************************
+ * GLOBAL STYLES & TYPOGRAPHY
+ *********************************************/
+:root {
+  /* Polices BBB, inchangées */
+  --r-main-font: 'BBBDMSans', 'IBM Plex Sans', sans-serif;
+  --r-heading-font: 'BBBManifontGrotesk', 'IBM Plex Sans', sans-serif;
+  --r-code-font: 'IBM Plex Mono', monospace;
+
+  /* Fond et couleurs de texte inversés pour le noir */
+  --r-background-color: #14151a;
+  --r-main-color: #eceaf5;
+  --r-heading-color: #ffffff;
+  --r-link-color: #6ab7ff;
+  --r-link-color-dark: #3d8fe0;
+  --r-link-color-hover: #9ccfff;
+  --r-selection-background-color: #4a3350;
+  --r-selection-color: #ffffff;
+
+  /* Tailles inchangées */
+  --r-main-font-size: 26px;
+  --r-heading-line-height: 1.2;
+  --r-heading-text-transform: none;
+  --r-heading1-size: 1.6em;
+  --r-heading2-size: 1.3em;
+  --r-heading3-size: 1.1em;
+  --r-heading4-size: 1.0em;
+  --r-heading-margin: 0 0 20px 0;
+
+  /* Palette d'accents, réutilisée par le code, tableaux, citations,
+     et par les diagrammes mermaid plus bas */
+  --accent-pink: #ff5c93;
+  --accent-pink-bg: #3a2030;
+  --accent-blue: #6ab7ff;
+  --panel: #1f2128;
+  --panel-border: #3a3d47;
+}
+
+.reveal-viewport {
+  background: var(--r-background-color);
+  background-color: var(--r-background-color);
+}
+
+.reveal .slides {
+  text-align: left;
+  pointer-events: none;
+}
+
+.reveal h1 {
+  text-align: left;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--r-heading-color);
+}
+
+.reveal h2, .reveal h3, .reveal h4 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-bottom: 15px;
+  color: var(--r-heading-color);
+}
+
+/*********************************************
+ * LISTES ET CONTENU DENSE
+ *********************************************/
+.reveal ul,
+.reveal ol {
+  margin-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+.reveal ul li,
+.reveal ol li {
+  margin-bottom: 0.4em;
+  line-height: 1.35;
+}
+
+.reveal .text-small {
+  font-size: 0.85em !important;
+  line-height: 1.3;
+}
+
+.reveal .text-tiny {
+  font-size: 0.75em !important;
+  line-height: 1.25;
+}
+
+.reveal ul.dense li {
+  margin-bottom: 0.2em;
+  font-size: 0.9em;
+}
+
+/*********************************************
+ * CODE & DONNÉES
+ *********************************************/
+.reveal code {
+  font-size: 0.85em;
+  font-weight: 600;
+  background-color: var(--accent-pink-bg);
+  border-radius: 4px;
+  padding: 2px 6px;
+  color: var(--accent-pink);
+}
+
+.reveal pre {
+  box-shadow: none;
+  margin: 10px 0;
+}
+
+.reveal pre code {
+  background-color: #0e0f13; /* encore plus sombre que le fond de slide, pour distinguer le bloc */
+  color: #f8f8f2;
+  max-height: 500px;
+  font-size: 0.75em;
+  line-height: 1.4;
+  border-radius: 6px;
+  border: 1px solid var(--panel-border);
+}
+
+/*********************************************
+ * IMAGES & FIGURES
+ *********************************************/
+.reveal figure > img {
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+figure > figcaption {
+  font-size: 0.55em;
+  color: #9b98ab;
+  margin-top: 5px;
+  font-style: italic;
+}
+
+.reveal figure.w75 > img,
+.reveal figure.w75 > figcaption {
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*********************************************
+ * TABLEAUX
+ *********************************************/
+.reveal table {
+  font-size: 0.9em;
+  border-collapse: collapse;
+  margin: 0 auto;
+  color: var(--r-main-color);
+}
+
+.reveal table th,
+.reveal table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--panel-border);
+  text-align: left;
+}
+
+.reveal table th {
+  font-weight: 600;
+  background-color: var(--panel);
+  color: #ffffff;
+}
+
+/*********************************************
+ * CITATIONS
+ *********************************************/
+.reveal blockquote {
+  background: transparent;
+  border-left: 4px solid var(--r-link-color);
+  box-shadow: none;
+  padding: 10px 20px;
+  font-style: italic;
+  font-size: 1.1em;
+  margin: 20px 0;
+  color: var(--r-main-color);
+}
+
+.reveal blockquote p:first-child {
+  margin-top: 0;
+}
+
+.reveal blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/*********************************************
+ * MERMAID — LISIBILITÉ SUR FOND NOIR
+ *
+ * Sur fond noir, le danger n'est plus la sous-exposition mais
+ * l'inverse : du texte ou des traits sombres qui disparaissent dans
+ * le fond, ou des couleurs saturées qui "bavent" sous un mauvais
+ * projecteur. Les règles ci-dessous forcent un contraste texte
+ * clair / traits clairs / fonds de nœuds sombres mais opaques,
+ * quelle que soit la palette passée dans themeVariables côté JS.
+ *********************************************/
+
+.reveal .mermaid {
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
+
+.reveal .mermaid svg {
+  font-size: 22px !important;
+  font-family: var(--r-main-font) !important;
+  /* pas de fond blanc ici : on reste sur le noir de la slide pour
+     éviter un carré lumineux qui éblouit sous vidéoprojecteur */
+  background: transparent;
+}
+
+/* Nœuds : fond de panneau sombre mais bien distinct du fond de
+   slide, bordure claire et épaisse pour que la forme se détache
+   nettement même avec un contraste de projecteur dégradé */
+.reveal .mermaid .node rect,
+.reveal .mermaid .node circle,
+.reveal .mermaid .node polygon,
+.reveal .mermaid .node path {
+  fill: var(--panel) !important;
+  stroke: var(--r-heading-color) !important;
+  stroke-width: 2.5px !important;
+}
+
+/* Texte : blanc pur et semi-gras, jamais une couleur sombre ou
+   moyenne qui se fondrait dans le fond noir */
+.reveal .mermaid .nodeLabel,
+.reveal .mermaid .label,
+.reveal .mermaid text {
+  fill: #ffffff !important;
+  font-weight: 600 !important;
+}
+
+/* Flèches et liens : trait clair et épais, jamais gris foncé */
+.reveal .mermaid .edgePath .path,
+.reveal .mermaid .flowchart-link {
+  stroke: #d8d6e6 !important;
+  stroke-width: 2.5px !important;
+}
+
+.reveal .mermaid marker path {
+  fill: #d8d6e6 !important;
+  stroke: #d8d6e6 !important;
+}
+
+/* Étiquettes de flèches : plaque opaque de la couleur du fond de
+   slide, pour ne jamais se superposer illisiblement sur une ligne
+   ou un autre nœud */
+.reveal .mermaid .edgeLabel {
+  background-color: var(--r-background-color) !important;
+  fill: #ffffff !important;
+  font-weight: 600 !important;
+}
+
+.reveal .mermaid .edgeLabel rect {
+  fill: var(--r-background-color) !important;
+  opacity: 1 !important;
+}
+
+/* Sous-graphes / clusters : fond légèrement plus clair que la slide
+   pour montrer l'emboîtement, bordure accent bien visible */
+.reveal .mermaid .cluster rect {
+  stroke: var(--accent-blue) !important;
+  stroke-width: 2px !important;
+  fill: var(--panel) !important;
+}
+
+/* Diagrammes de séquence */
+.reveal .mermaid .actor {
+  stroke: var(--r-heading-color) !important;
+  stroke-width: 2px !important;
+  fill: var(--panel) !important;
+}
+
+.reveal .mermaid .actor-line,
+.reveal .mermaid .messageLine0,
+.reveal .mermaid .messageLine1 {
+  stroke: #d8d6e6 !important;
+  stroke-width: 2px !important;
+}
+
+.reveal .mermaid .messageText {
+  fill: #ffffff !important;
+  font-weight: 600 !important;
+}

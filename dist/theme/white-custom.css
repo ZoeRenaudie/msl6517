@@ -1,0 +1,269 @@
+/**
+ * D'apres le White theme for reveal.js. This is the opposite of the 'black' theme.
+ * By Hakim El Hattab, http://hakim.se
+
+ Les polices utilisées sont Manifont Grotesk (c) CUTE Sophie Vela, Max Lillo et al. et DM Sans (c) OFL Camille Circlude, Eugénie Bidaut, Mariel Nils, Bérénice Bouin, merci au travail de Bye-Bye Binary
+
+ */
+
+@import url(./fonts/ibm-plex-mono/ibm-plex-mono.css);
+@import url(./fonts/ibm-plex-sans/ibm-plex-sans.css);
+@import url(./fonts/ibm-plex-sans-condensed/ibm-plex-sans-condensed.css);
+@import url(./fonts/BBBManifontGrotesk/BBBDManifontGrotesk.css);
+@import url(./fonts/BBBDMSans/BBBDMSans.css);
+
+
+/*********************************************
+ * GLOBAL STYLES & TYPOGRAPHY
+ *********************************************/
+:root {
+  /* Polices BBB */
+  --r-main-font: 'BBBDMSans', 'IBM Plex Sans', sans-serif;
+  --r-heading-font: 'BBBManifontGrotesk', 'IBM Plex Sans', sans-serif;
+  --r-code-font: 'IBM Plex Mono', monospace;
+
+  /* Couleurs */
+  --r-main-color: #292e38;
+  --r-heading-color: #292e38;
+  --r-link-color: #007FFF;
+  --r-selection-background-color: #ffdbe8;
+
+  /* TAILLES RÉDUITES */
+  /* Réduction de la base de 32px à 26px pour gagner de l'espace vertical */
+  --r-main-font-size: 26px; 
+  
+  /* Ajustement des titres (1.2em était trop petit pour un H1) */
+  --r-heading-line-height: 1.2;
+  --r-heading-text-transform: none; /* Conserve la casse originale */
+  
+  --r-heading1-size: 1.6em; /* Titre principal plus grand */
+  --r-heading2-size: 1.3em; /* Sous-titres */
+  --r-heading3-size: 1.1em; /* Titres de section */
+  --r-heading4-size: 1.0em;
+  
+  --r-heading-margin: 0 0 20px 0;
+}
+
+/* Reset text-align pour permettre l'alignement à gauche si nécessaire */
+.reveal .slides {
+  text-align: left; 
+  pointer-events: none;
+}
+
+/* Centrer uniquement les titres de niveau 1 si désiré, sinon laisser à gauche */
+.reveal h1 {
+  text-align: left; 
+  font-weight: 700;
+  letter-spacing: -0.02em; /* Un peu plus serré pour le style Grotesk */
+}
+
+.reveal h2, .reveal h3, .reveal h4 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-bottom: 15px;
+}
+
+/*********************************************
+ * LISTES ET CONTENU DENSE
+ *********************************************/
+
+/* Réduire l'espacement des listes par défaut */
+.reveal ul, 
+.reveal ol {
+  margin-left: 1.2em;
+  margin-bottom: 1em;
+}
+
+.reveal ul li, 
+.reveal ol li {
+  margin-bottom: 0.4em; /* Espacement réduit entre les items */
+  line-height: 1.35;    /* Interligne plus serré */
+}
+
+/* Classe utilitaire pour texte encore plus petit (ex: notes, détails techniques) */
+.reveal .text-small {
+  font-size: 0.85em !important; /* ~22px */
+  line-height: 1.3;
+}
+
+.reveal .text-tiny {
+  font-size: 0.75em !important; /* ~19px */
+  line-height: 1.25;
+}
+
+/* Classe pour listes denses */
+.reveal ul.dense li {
+  margin-bottom: 0.2em;
+  font-size: 0.9em;
+}
+
+/*********************************************
+ * CODE & DONNÉES
+ *********************************************/
+.reveal code {
+  font-size: 0.85em;
+  font-weight: 600;
+  background-color: #ffdbe8;
+  border-radius: 4px;
+  padding: 2px 6px;
+  color: #c7254e; /* Couleur de texte code plus lisible sur fond rose */
+}
+
+.reveal pre {
+  box-shadow: none;
+  margin: 10px 0;
+}
+
+/* Fond sombre réservé aux VRAIS blocs de code. On exclut explicitement
+   code.mermaid : reveal-mermaid injecte le SVG rendu à l'intérieur de
+   ce <pre><code>, et sans cette exclusion le bloc garde le fond noir
+   prévu pour le code, ce qui produit un rectangle noir derrière un
+   diagramme censé être sur fond blanc. */
+.reveal pre code:not(.mermaid) {
+  background-color: #272822;
+  color: #f8f8f2;
+  max-height: 500px;
+  font-size: 0.75em; /* Code encore plus petit */
+  line-height: 1.4;
+  border-radius: 6px;
+}
+
+/* Le conteneur mermaid lui-même : fond transparent (celui de la slide,
+   donc blanc), pas d'ombre ni de cadre hérité des blocs de code */
+.reveal pre code.mermaid,
+.reveal .mermaid {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  max-height: none;
+  padding: 0;
+}
+
+.reveal .mermaid svg {
+  background: transparent !important;
+}
+
+/*********************************************
+ * IMAGES & FIGURES
+ *********************************************/
+.reveal figure > img {
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+figure > figcaption {
+  font-size: 0.55em; /* Légendes plus petites mais lisibles */
+  color: #666;
+  margin-top: 5px;
+  font-style: italic;
+}
+
+.reveal figure.w75 > img,
+.reveal figure.w75 > figcaption {
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*********************************************
+ * TABLEAUX
+ *********************************************/
+.reveal table {
+  font-size: 0.9em; /* Tableaux légèrement plus petits */
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.reveal table th,
+.reveal table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+.reveal table th {
+  font-weight: 600;
+  background-color: #f4f4f4;
+}
+
+/*********************************************
+ * CITATIONS
+ *********************************************/
+.reveal blockquote {
+  background: transparent;
+  border-left: 4px solid var(--r-link-color);
+  box-shadow: none;
+  padding: 10px 20px;
+  font-style: italic;
+  font-size: 1.1em;
+  margin: 20px 0;
+}
+
+.reveal blockquote p:first-child {
+  margin-top: 0;
+}
+
+.reveal blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+
+/*********************************************
+ * MERMAID — LISIBILITÉ SUR FOND BLANC, MÊME PROJETÉ
+ *
+ * Traits et texte assez épais/foncés pour rester nets si le
+ * projecteur écrase les contrastes ou floute les lignes fines.
+ *********************************************/
+.reveal .mermaid {
+  max-width: 100% !important;
+}
+
+.reveal .mermaid svg {
+  max-height: 62vh !important;
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  display: block;
+  margin: 0 auto;
+  transform: scale(1.0);
+  transform-origin: center;
+}
+
+/* Ajustement spécifique pour les nœuds (rect, circle, etc.) */
+.reveal .mermaid .node rect,
+.reveal .mermaid .node circle,
+.reveal .mermaid .node polygon,
+.reveal .mermaid .node path {
+  stroke-width: 3px !important;
+  /* Assure que le texte à l'intérieur des nœuds est gras */
+  font-weight: 700 !important; 
+}
+
+/* FLÈCHES PLUS GROSSES */
+.reveal .mermaid .edgePath .path,
+.reveal .mermaid .flowchart-link {
+  stroke: #292e38 !important;
+  stroke-width: 5px !important; /* ÉPAISSEUR AUGMENTÉE (3px -> 5px) */
+  fill: none !important; /* S'assure que la ligne est bien tracée */
+}
+
+/* Pointes de flèches (markers) plus visibles */
+.reveal .mermaid marker path {
+  fill: #292e38 !important;
+  stroke: #292e38 !important;
+  stroke-width: 4px !important;
+}
+
+/* Étiquettes sur les flèches (texte des liens) */
+.reveal .mermaid .edgeLabel {
+  background-color: #ffffff !important;
+  font-weight: 800 !important; /* TEXTE DES FLÈCHES TRÈS ÉPAIS */
+  font-size: 22px !important;
+  font-family: 'BBBDMSans', 'IBM Plex Sans', sans-serif !important;
+  color: #292e38 !important;
+}
+
+.reveal .mermaid .edgeLabel rect {
+  fill: #ffffff !important;
+  opacity: 1 !important;
+}
+

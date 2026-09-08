@@ -1,0 +1,16 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "Sources des diapositives utilisées dans le cadre du projet Display (Ouvroir d’histoire de l’art et de muséologie numériques).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "reveal.js-mermaid-plugin": "^11.15.0"
+  }
+}

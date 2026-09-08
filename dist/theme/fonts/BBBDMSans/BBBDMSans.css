@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'BBBDMSans';
+    src: url('./BBBDMSans-Regular.woff') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: "DM Sans";
+  src: url('./BBBDMSans-Regular.woff') format('woff2');
+  font-weight: normal;
+  font-style: italic 07deg;
+  font-display: swap;
+}
+
+@font-face {
+    font-family: 'BBBDMSans';
+    src: url('./BBBDMSans-Medium.woff') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BBBDMSans';
+        src: url('./BBBDMSans-Light.woff') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+  
+@font-face {
+    font-family: "BBBDMSans";
+    src: url('./BBBDMSans-Bold.woff');
+    font-weight: 700;
+    font-style: normal;
+}  
