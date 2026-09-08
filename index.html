@@ -1,17 +1,443 @@
 <!doctype html>
-<html>
+<html lang="fr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="description" content="Portail des diapositives et cours MSL6517">
+  <title>MSL6517 | Cours</title>
+  <style>
+    :root {
+      --bg: #f4f7fb;
+      --panel: #ffffff;
+      --panel-soft: #f8fafc;
+      --line: #dfe7f1;
+      --text: #17212d;
+      --muted: #5d6c7d;
+      --accent: #2f5fe6;
+      --accent-soft: #edf3ff;
+      --success: #1d8b74;
+      --shadow: 0 20px 45px rgba(23, 33, 45, 0.08);
+    }
 
-  <title>Diapositives</title>
+    * { box-sizing: border-box; }
 
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      font-family: "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+      background: linear-gradient(180deg, #eef4ff 0%, var(--bg) 30%, #f8fafc 100%);
+      color: var(--text);
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+      flex-direction: column;
+    }
+
+    main {
+      flex-grow: 1;
+    }
+
+    footer {
+      text-align: center;
+      padding: 3px;
+      color: rgb(208, 208, 208);
+    }
+
+    .shell {
+      width: min(1380px, 100%);
+      background: rgba(255,255,255,0.8);
+      border: 1px solid rgba(223, 231, 241, 0.9);
+      border-radius: 22px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(5px);
+      overflow: hidden;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 18px 28px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255,255,255,0.4);
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--text);
+    }
+
+    .tag {
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      border: 1px solid rgba(47, 95, 230, 0.12);
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    .content {
+      padding: 30px 28px 28px;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: 1.3fr 0.4fr;
+      gap: 24px;
+      align-items: stretch;
+    }
+
+    .hero-copy {
+      padding: 10px 4px 0;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      margin-bottom: 14px;
+      color: var(--accent);
+      font-size: 0.78rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(2.2rem, 4vw, 3.7rem);
+      line-height: 1.04;
+      letter-spacing: -0.06em;
+      color: var(--text);
+    }
+
+    .lead {
+      margin: 0;
+      max-width: 1000px;
+      color: var(--muted);
+      font-size: 1.03rem;
+      line-height: 1.7;
+    }
+
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 22px;
+    }
+
+    .meta-item {
+      min-width: 130px;
+      padding: 14px 16px;
+      border-radius: 14px;
+      background: var(--panel-soft);
+      border: 1px solid var(--line);
+    }
+
+    .meta-item strong {
+      display: block;
+      font-size: 1.5rem;
+      line-height: 1.2;
+      letter-spacing: -0.05em;
+      margin-bottom: 4px;
+    }
+
+    .meta-item span {
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+
+    .panel {
+      width: min(350px, 100%);
+      background: linear-gradient(180deg, #ffffff, #f8fbff);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 18px 18px 12px;
+      margin-left: auto; 
+    }
+
+    .panel-title {
+      margin: 0 0 14px;
+      color: var(--muted);
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    .recent-list,
+    .course-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 12px;
+    }
+
+    .recent-list li,
+    .course-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 12px;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+    }
+
+    .recent-list .meta,
+    .course-main {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .recent-list .date {
+      color: var(--muted);
+      font-size: 0.7rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .recent-list a,
+    .course-name {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .course-section {
+      margin-top: 30px;
+      border-top: 1px solid var(--line);
+      padding-top: 24px;
+    }
+
+    .course-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+
+    .course-header h2 {
+      margin: 0;
+      font-size: 1.15rem;
+      letter-spacing: -0.04em;
+    }
+
+    .course-count {
+      color: var(--muted);
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+
+    .course-item {
+      padding: 14px 16px;
+    }
+
+    .course-name {
+      font-size: 1rem;
+    }
+
+    .course-label {
+      color: var(--muted);
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .action {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 96px;
+      padding: 9px 12px;
+      border-radius: 10px;
+      background: var(--accent-soft);
+      border: 1px solid rgba(47, 95, 230, 0.12);
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.8rem;
+      font-weight: 700;
+    }
+
+    .presentation {
+      margin-top: 28px;
+      padding-top: 22px;
+      border-top: 1px solid var(--line);
+    }
+
+    .presentation-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+
+    .presentation-header h2 {
+      margin: 0;
+      font-size: 1.15rem;
+      letter-spacing: -0.04em;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      padding: 18px 18px 16px;
+      border-radius: 16px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .card .icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 12px;
+      display: grid;
+      place-items: center;
+      font-weight: 700;
+      background: var(--accent-soft);
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+
+    .card h3 {
+      margin: 0 0 8px;
+      font-size: 1.04rem;
+    }
+
+    .card p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.6;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 760px) {
+      body {
+        padding: 20px 14px;
+      }
+
+      .topbar,
+      .content {
+        padding-left: 18px;
+        padding-right: 18px;
+      }
+
+      .hero,
+      .cards {
+        grid-template-columns: 1fr;
+      }
+
+      .presentation-header {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .recent-list li,
+      .course-item {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .actions {
+        width: 100%;
+      }
+
+      .action {
+        flex: 1 1 0;
+        width: 100%;
+      }
+    }
+  </style>
 </head>
 <body>
-<ul>
-  <li><a href="cours00/">2026-09-08 : cours00</a></li>
-  <li><a href="cours01/">2026-09-14 : cours01</a></li>
+  <main class="shell" aria-label="Portail des cours MSL6517">
+    <header class="topbar">
+      <div class="brand" aria-label="MSL6517">MSL6517</div>
+      <span class="tag">2026</span>
+    </header>
 
-</ul>
+    <div class="content">
+      <section class="hero" aria-label="Présentation générale">
+        <div class="hero-copy">
+          <div class="eyebrow">Bibliothèque de cours</div>
+          <h1>Introduction aux métadonnées culturelles</h1>
+          <p class="lead">
+            Ce répertoire contient les notes du cours Inventaire et traitement de données offert à l’Université de Montréal sous le sigle MSL6517 par Zoë Renaudie.
+          </p>
+          <p>  
+            Ces contenus ont été élaborés à partir du cours d'Emmanuel Château-Dutier de 2016 à 2023 pendant lesquels Camille Delattre a contribué comme auxiliaire d’enseignement à la préparation des travaux pratiques.
+          </p>
+
+        </div>
+
+        <aside class="panel" aria-label="Derniers accès">
+          <h2 class="panel-title">Derniers accès</h2>
+          <ul class="recent-list">
+            <li>
+              <div class="meta">
+                <span class="date">2026-09-08</span>
+                <a href="cours00/">cours00</a>
+              </div>
+            </li>
+            <li>
+              <div class="meta">
+                <span class="date">2026-09-14</span>
+                <a href="cours01/">cours01</a>
+              </div>
+            </li>
+          </ul>
+        </aside>
+      </section>
+
+      <section class="course-section" aria-label="Cours disponibles">
+        <div class="course-header">
+          <h2>Cours disponibles</h2>
+          <span class="course-count">1 cours</span>
+        </div>
+
+        <div class="course-list">
+          <div class="course-item">
+            <div class="course-main">
+              <span class="course-label">Cours</span>
+              <a class="course-name" href="cours00/">cours00</a>
+            </div>
+            <div class="actions">
+              <a class="action" href="cours00/">Diapositives</a>
+              <a class="action" href="cours00/msl6517_26-00.md">Notes</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+    <footer>
+    <p>Dépôt inspiré du modèle en reaveal.js de l'<a href="https://github.com/ouvroir/atelier-display" style="color: rgb(208, 208, 208); text-decoration: underline;">Ouvroir</a> mis en place par David Valentine, avec l'aide de copilot dans VScode pour rendre l'interface d'index plus ergonomique.</p>
+  </footer>
 </body>
 </html>
