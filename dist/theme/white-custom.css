@@ -267,3 +267,54 @@ figure > figcaption {
   opacity: 1 !important;
 }
 
+/*********************************************
+ * IMAGES & FIGURES (MISE À JOUR)
+ *********************************************/
+
+/* Force TOUTES les images à rester dans la slide */
+.reveal section img {
+  max-height: 55vh; /* Limite à 55% de la hauteur de l'écran */
+  width: auto;      /* Conserve les proportions */
+  object-fit: contain;
+  border: none;
+  box-shadow: none;
+  margin: 0 auto;   /* Centre l'image */
+  display: block;
+}
+
+/* Ajustement des figures existants */
+.reveal figure > img {
+  margin-bottom: 10px;
+  border-radius: 4px;
+  /* Hérite de max-height ci-dessus, mais on peut être plus strict si besoin */
+  max-height: 50vh; 
+}
+
+figure > figcaption {
+  font-size: 0.6em; /* Légendes encore plus petites */
+  color: #666;
+  margin-top: 5px;
+  font-style: italic;
+  text-align: center;
+}
+
+/* Classe à ajouter sur une section <section class="compact"> dans le HTML ou Markdown */
+.reveal .compact {
+  font-size: 0.85em !important; /* Réduit tout le contenu de la slide de 15% */
+}
+
+.reveal .compact h1, 
+.reveal .compact h2, 
+.reveal .compact h3 {
+  font-size: 1.2em !important; /* Réduit aussi les titres dans cette slide */
+  margin-bottom: 10px;
+}
+
+.reveal .compact ul li {
+  margin-bottom: 0.2em;
+  line-height: 1.2;
+}
+
+.reveal .compact img {
+  max-height: 45vh !important; /* Images encore plus petites dans ce mode */
+}
