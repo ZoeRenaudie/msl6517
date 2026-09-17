@@ -82,7 +82,7 @@
 
 /* Classe utilitaire pour texte encore plus petit (ex: notes, détails techniques) */
 .reveal .text-small {
-  font-size: 0.85em !important; /* ~22px */
+  font-size: 0.65em !important;
   line-height: 1.3;
 }
 

@@ -18,7 +18,8 @@ Documentation officielle : <https://www.markdownguide.org/>
 
 Plus avancés :
 * **VS Code** 
-* **GitHub / GitLab** 
+* **VS Codium** 
+* **GitHub / GitLab**  
 
 ---
 
