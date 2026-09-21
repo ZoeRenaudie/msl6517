@@ -8,7 +8,7 @@ Better examples -->
 
 Ajouter routledge Cultural data
 
-### Exo semaine 07/09
+### Exo semaine 0
 
 - Précision sur l'objectif du cours : Inventaire et traitement de données
 - Présentation du plan de cours et de la notation
@@ -47,7 +47,7 @@ autochtone: J. Hunter. The Role of Information Technologies in Indigenous Knowle
 
 SPECTRUM
 
-### Séance 3 : 28/09 Inventaire et cataloguage
+### Séance 3 : 28/09 Gestion des collections
 - Exercice en cours : Faire un chantier des collections, récolement et inventaire
 
 ### Exo semaine 28/09 TP3
