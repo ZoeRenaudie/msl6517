@@ -120,7 +120,7 @@ Les systèmes d'information des musées disposent de plus en plus d'interfaces p
 Activité en classe : 
 - discussion sur lectures 
 - présentation des interfaces choisies
-- mise en ligne de la collection MSL6517
+- description de la collection MSL6517
 
 ### Séance 5, 12 octobre (asynchrone) : La notion de métadonnées dans le domaine culturel
 
@@ -129,7 +129,7 @@ Introduction au concept de métadonnées et à son application dans le secteur c
 Activité en classe : 
 - discussion sur lectures 
 - présentation des interfaces choisies
-- récolement de la collection MSL6517
+- inventaire et catalogage de la collection MSL6517
 
 ### Séance 6, 26 octobre : Les données structurées, langages documentaires et thesaurus
 
@@ -137,7 +137,6 @@ Présentation des principales structures de données : notion de données struct
 
 Activité en classe : 
 - discussion sur lectures 
-- 
 - structuration des données de la collection MSL6517
 
 ### Séance 7, 2 novembre : Open GLAM : L'Open data et l'Open Content dans la stratégie muséale
@@ -146,8 +145,7 @@ Militantisme pour l'ouverture des collections patrimoniales et naissance du mouv
 
 Activité en classe : 
 - discussion sur lectures 
-- 
-- ouverture de la collection MSL6517
+- enrichissement de la collection MSL6517
 
 ### Séance 8, 9 novembre : Modélisation de données
 
@@ -164,7 +162,6 @@ Initiation aux bases de données relationnelles et au modèle relationnel. Cette
 
 Activité en classe : 
 - discussion sur lectures 
-- 
 - modélisation de la collection MSL6517
 
 ### Séance 10, 23 novembre : Web sémantique et ontologies dans le domaine patrimonial
@@ -173,7 +170,6 @@ L'interopérabilité peut être garantie en ayant recours à des ontologies qui 
 
 Activité en classe : 
 - discussion sur lectures 
-- 
 - modélisation de la collection MSL6517
 
 ### Séance 11, 30 novembre : Éthique des données et pérennisation
@@ -182,13 +178,15 @@ Le champ de l'informatique muséale n'est pas exempt d'enjeux éthiques, qu'il s
 
 Activité en classe : 
 - discussion sur lectures 
+- récolement de la collection MSL6517
 
 
 ### Séance 12, 7 décembre : L'intelligence artificielle et les enjeux du traitement des données
 
 Synthèse des enjeux liés au traitement des données et introduction aux applications de l'intelligence artificielle dans le domaine muséal et patrimonial. Cette séance examine comment l'IA transforme les pratiques de documentation, d'indexation, d'enrichissement et de médiation des collections. Sont abordés les opportunités (automatisation des tâches documentaires, reconnaissance d'images, extraction d'entités, génération de métadonnées) ainsi que les limites et risques (biais, fiabilité, impact écologique, enjeux éthiques et de propriété intellectuelle). Discussion des stratégies institutionnelles et des questions que posent ces technologies pour l'avenir du métier.
 
-
+- discussion sur lectures 
+- mise en ligne de la collection MSL6517
 
 ### Séance 13, 14 décembre : Atelier rédaction
 
@@ -353,11 +351,10 @@ Lori Byrd-McDevitt, « The Ultimate Guide to Virtual Museum Resources, E-Learnin
 
 #### Consignes
 
-1. Choisir une œuvre ou un bien culturel au sein de la collection que vous avez choisie pour la session.
-2. En faire la description en vous appuyant sur la procédure **Spectrum** pour le catalogage et les exemples de catalogue en ligne visités lors du TP03.
-3. **Interroger la correspondance des descripteurs** : comparer les descripteurs du catalogue étudié avec les catégories d'informations proposées par Spectrum. Identifier les correspondances et les différences.
-4. **Évaluer la qualité des métadonnées** proposées dans le catalogue de la collection étudiée. Au besoin, faites des comparaisons avec les notices d'autres objets.
-5. Partager vos résultats sur le pad.
+1. Faire la description de votre objet de la collection MSL en vous appuyant sur la procédure Spectrum pour le catalogage.
+2. Comparez les descripteurs du catalogue en ligne que vous avez étudié (TP03) avec les catégories d'informations proposées par Spectrum. Identifiez les correspondances et les différences.
+3. Évaluer la qualité des métadonnées : Trouvez des notices d'objets similaires dans une collection publique et analysez la qualité de la description que vous avez produite. Prenez des notes sur ces objets pour plus tard.
+4. Partagez vos résultats sur le Pad : https://annuel.framapad.org/p/mBJwa87CO5042_fMwcde
 
 ### Travail pratique 05 : Traitement sous forme tabulaire + mise en commun
 
@@ -373,9 +370,9 @@ Choisir une sélection de **cinq artefacts** liés entre eux dans la collection 
 
 Partager votre feuille de calcul par l'intermédiaire d'un lien (O365 ou Google Sheets) sur le pad : [https://annuel.framapad.org/p/mBJwa87C05042\_fMwcde](https://annuel.framapad.org/p/mBJwa87C05042_fMwcde)
 
-#### Partie 2 : Mise en commun (travail de groupe)
+#### Partie 2 : Mise en commun (travail de groupe en classe)
 
-Formez des **groupes** avec vos camarades en fonction du type d'artefacts que vous étudiez (2 à 3 personnes), et réfléchissez à la manière dont vous pourriez partager l'information documentaire dont vous disposez sur vos artefacts :
+En classe, formez des **groupes** avec vos camarades en fonction du type d'artefacts que vous étudiez (2 à 3 personnes), et réfléchissez à la manière dont vous pourriez partager l'information documentaire dont vous disposez sur vos artefacts :
 
 - Déterminer les **champs de description communs** entre vos jeux de données.
 - Identifier les **enjeux terminologiques** concernant le partage et la mise en commun de vos notices.
@@ -385,13 +382,21 @@ Formez des **groupes** avec vos camarades en fonction du type d'artefacts que vo
 
 **Rendu : 2 novembre 2026**
 
-À partir de l'échantillon de la base de données des artistes du **Musée d'Art Contemporain de Montréal** disponible sur la plateforme de données ouvertes du Gouvernement du Québec ou le jeu de données de **Mona**, et en vous aidant des tutoriels mis à disposition :
+1. Consulter l'échantillon de la base de données des artistes du Musée d'Art Contemporain de Montréal disponible sur la [plateforme de données ouvertes du Gouvernement du Québec](https://www.donneesquebec.ca/recherche/fr/organization/macm). Puis téléchargez notre jeu de données et comparez les visuellement.
 
-1. Installer le programme **OpenRefine**.
-2. **Décomposer** les champs `lieu_naissance` et `lieu_mort` en plusieurs champs : `ville_naissance`, `province_naissance`, `pays_naissance`, ainsi que `ville_mort`, `province_mort`, `pays_mort`.
-3. **Réconcilier** les noms des artistes à ceux de Wikidata. Le lien de l'API de Wikidata en français pour OpenRefine est : [https://wdreconcile.toolforge.org/fr/api](https://wdreconcile.toolforge.org/fr/api)
-4. **Enrichir** la base de données du MAC en ajoutant l'identifiant Wikidata des artistes, ainsi que les dates de naissance et de mort selon Wikidata.
-5. **Constatez les différences** entre les différents jeux de données.
+2. En vous aidant des divers tutoriels mis à disposition, ou d'autres que vous aurez trouvé sur le web, installez le programme [OpenRefine](https://openrefine.org/)
+
+3. Procédez à une transformation de la structure de notre jeu de données et enrichissez-les en les liant à la ressource Wikidata. Effectuez les opérations suivantes:
+- Décomposez les champs lieu_naissance et lieu_mort en plusieurs champs ville_naissance, province_naissance, pays_naissance, ainsi que ville_mort, province_mort et pays_mort
+- Réconciliez les noms des artistes, auteur à ceux de Wikidata.
+- Enrichissez notre jeu de données en ajoutant l'identifiant Wikidata des artistes, ainsi que les dates de naissance et de mort selon Wikidata.
+
+Certaines opérations nécessitent des formules informatiques qu'il est possible de trouver dans les divers tutoriels
+
+Le lien de l'API de Wikidata en français pour OpenRefine est : https://wdreconcile.toolforge.org/fr/api
+Explorez les wikidata des autres langues. 
+
+4. Enfin, réfléchissez à une manière dont nous pourrions procéder pour améliorer notre jeu de données. Quelles autres ressources externes pourraient être utiles pour ces enrichissements?
 
 Enfin, réfléchissez à une manière dont le MAC pourrait procéder pour **améliorer ses bases de données d'artistes**. Quelles autres ressources externes pourraient être utiles pour ces enrichissements ?
 
@@ -541,16 +546,7 @@ Le contenu généré par l'IA ne doit pas dépasser **20 % du travail**.
 
 ## Rappels
 
-### Dates importantes
-
-
-|                                   |                   |
-| --------------------------------- | ----------------- |
-| **Modification de l'inscription** | 17 septembre 2025 |
-| **Date limite d'abandon**         | 7 novembre 2025   |
-
-
-**Évaluation de l'enseignement** : Accordez à l'évaluation tout le sérieux qu'elle mérite. Vos commentaires contribuent à améliorer le déroulement du cours et la qualité de la formation. Les étudiantes et les étudiants évalueront l'enseignement au cours d'une séance du séminaire en fin de semestre.
+**Évaluation de l'enseignement** : Accordez à l'évaluation tout le sérieux qu'elle mérite. Vos commentaires contribuent à améliorer le déroulement du cours et la qualité de la formation. 
 
 > **Attention !** En cas de différence entre les dates inscrites au plan de cours et celles publiées dans le Centre étudiant, ces dernières ont préséance. Accédez au Centre par le [Bureau du registraire](http://registraire.umontreal.ca/accueil/) pour trouver l'information. Pour les cours à horaires atypiques, les dates de modification de l'inscription et les dates d'abandon peuvent être différentes de celles des cours à horaires réguliers.
 
