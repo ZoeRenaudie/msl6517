@@ -73,7 +73,7 @@ Cet enseignement associe étroitement la théorie et son application à la prati
 | 05 oct.  | S4 (async.) | Les interfaces publiques et catalogues en ligne              | TP4 → 12 oct.           |
 | 12 oct.  | S5 (async.) | La notion de métadonnées                                     | TP5 → 26 oct.           |
 | 19 oct.  |             | **Semaine de lecture**                                       |                         |
-| 26 oct.  | S6          | Données structurées, langages documentaires et thesaurus     | TP6 → 02 nov.           |
+| 26 oct.  | S6          | Les langages documentaires et thesaurus                      | TP6 → 02 nov.           |
 | 02 nov.  | S7          | Open GLAM : Open data et Open Content                        | TP7 → 09 nov.           |
 | 09 nov.  | S8          | Modélisation de données                                      | TP8 → 16 nov.           |
 | 16 nov.  | S9          | Le modèle relationnel                                        | TP9 → 23 nov.           |
@@ -131,9 +131,9 @@ Activité en classe :
 - présentation des interfaces choisies
 - inventaire et catalogage de la collection MSL6517
 
-### Séance 6, 26 octobre : Les données structurées, langages documentaires et thesaurus
+### Séance 6, 26 octobre : Les langages documentaires et thesaurus
 
-Présentation des principales structures de données : notion de données structurées, de format informatique, modèle tabulaire et modèle hiérarchique. Les langages documentaires et les vocabulaires contrôlés occupent une place importante dans les établissements muséaux et patrimoniaux : taxonomies, thesaurus et vocabulaires contrôlés, vocabulaires métiers. Comment contribuent-ils à l'interopérabilité et à la qualité de la description.
+Les langages documentaires et les vocabulaires contrôlés occupent une place importante dans les établissements muséaux et patrimoniaux : taxonomies, thesaurus et vocabulaires contrôlés, vocabulaires métiers. Comment contribuent-ils à l'interopérabilité et à la qualité de la description.
 
 Activité en classe : 
 - discussion sur lectures 
@@ -149,7 +149,7 @@ Activité en classe :
 
 ### Séance 8, 9 novembre : Modélisation de données
 
-Les logiciels métiers et le choix d'un système d'information : situation au Canada et enjeux de la migration de données. Cette séance examine les étapes et les défis d'un projet de migration, depuis l'audit de l'existant jusqu'au paramétrage du nouveau système. Présentation par Violaine Debailleul de la migration Collective Access de la collection ethnographique de l'Université de Montréal, retour d'expérience sur le terrain.
+Présentation des principales structures de données : notion de données structurées, de format informatique, modèle tabulaire et modèle hiérarchique. Les logiciels métiers et le choix d'un système d'information : situation au Canada et enjeux de la migration de données. Cette séance examine les étapes et les défis d'un projet de migration, depuis l'audit de l'existant jusqu'au paramétrage du nouveau système. Présentation par Violaine Debailleul de la migration Collective Access de la collection ethnographique de l'Université de Montréal, retour d'expérience sur le terrain.
 
 Activité en classe : 
 - discussion sur lectures 

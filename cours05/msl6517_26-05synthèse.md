@@ -134,7 +134,7 @@ Sans interopérabilité, chaque institution travaille en silo. Avec des standard
 
 ### 7.5 Découvrabilité
 
-Définition de l'Observatoire (2017) : capacité d'un contenu culturel à se laisser découvrir aisément par qui le cherche et à être proposé à qui n'en connaissait pas l'existence. Elle dépend de la qualité des métadonnées, de leur interopérabilité et du partage d'une vision globale du domaine.
+Définition de l'Observatoire (2017) : capacité d'un contenu culturel à se laisser découvrir aisément par qui le cherche et à être proposé à qui n'en connaissait pas l'existence. Elle dépend de la qualité des métadonnées, de leur interopérabilité et du partage d'une vision globale du domaine [culturel].
 
 ## 8. Stockage et partage
 
@@ -156,7 +156,7 @@ JSON s'est imposé dans le monde du web, mais XML demeure central pour la longé
 Le MoMA publie sur GitHub ([https://github.com/MuseumofModernArt/collection](https://github.com/MuseumofModernArt/collection)) un jeu de données de recherche recensant les œuvres de sa collection cataloguées dans sa base, et un jeu distinct sur les artistes.
 
 - Formats : CSV et JSON, encodés en UTF-8.
-- Licence CC0 (les images ne sont pas incluses). Le musée demande néanmoins que son attribution soit mentionnée et que le jeu ne soit pas présenté de façon trompeuse.
+- Licence Creative Commons 0 (les images ne sont pas incluses). Le musée demande néanmoins que son attribution soit mentionnée et que le jeu ne soit pas présenté de façon trompeuse.
 - Champs : titre, artiste, date, matière, dimensions, date d'acquisition, etc.
 - Taille : plus de 150 000 notices au dernier relevé.
 
