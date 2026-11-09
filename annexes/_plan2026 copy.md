@@ -75,8 +75,8 @@ Cet enseignement associe étroitement la théorie et son application à la prati
 | 19 oct.  |             | **Semaine de lecture**                                       |                         |
 | 26 oct.  | S6          | Les langages documentaires et thesaurus                      | TP6 → 02 nov.           |
 | 02 nov.  | S7          | Open GLAM : Open data et Open Content                        | TP7 → 09 nov.           |
-| 09 nov.  | S8          | Modélisation de données                                      | TP8 → 16 nov.           |
-| 16 nov.  | S9          | Le modèle relationnel                                        | TP9 → 23 nov.           |
+| 09 nov.  | S8          | Logiciels de gestion de collections                          | TP8 → 16 nov.           |
+| 16 nov.  | S9          | Modélisation des données                                     | TP9 → 23 nov.           |
 | 23 nov.  | S10         | Les ontologies dans le domaine patrimonial                   | TP10 → 30 nov.          |
 | 30 nov.  | S11         | Éthique des données et pérennisation                         |                         |
 | 07 déc.  | S12         | L'intelligence artificielle et les enjeux du traitement des données |                         |
@@ -147,18 +147,18 @@ Activité en classe :
 - discussion sur lectures 
 - enrichissement de la collection MSL6517
 
-### Séance 8, 9 novembre : Modélisation de données
+### Séance 8, 9 novembre : **Logiciels de gestion de collections**
 
-Présentation des principales structures de données : notion de données structurées, de format informatique, modèle tabulaire et modèle hiérarchique. Les logiciels métiers et le choix d'un système d'information : situation au Canada et enjeux de la migration de données. Cette séance examine les étapes et les défis d'un projet de migration, depuis l'audit de l'existant jusqu'au paramétrage du nouveau système. Présentation par Violaine Debailleul de la migration Collective Access de la collection ethnographique de l'Université de Montréal, retour d'expérience sur le terrain.
+Les logiciels métiers et le choix d'un système d'information : situation au Canada et enjeux de la migration de données. Cette séance examine les étapes et les défis d'un projet de migration, depuis l'audit de l'existant jusqu'au paramétrage du nouveau système. Présentation par Violaine Debailleul de la migration Collective Access de la collection ethnographique de l'Université de Montréal, retour d'expérience sur le terrain.
 
 Activité en classe : 
 - discussion sur lectures 
 - https://github.com/CollectionBuilder/collectionbuilder-gh
 - modélisation de la collection MSL6517
 
-### Séance 9, 16 novembre : Le modèle relationnel
+### Séance 9, 16 novembre : Modélisation de données
 
-Initiation aux bases de données relationnelles et au modèle relationnel. Cette séance prolonge la modélisation entité-association abordée au TP8 et montre comment passer du schéma conceptuel au schéma logique puis à la création effective d'une base de données. Sont abordées les notions de table, clé primaire, clé étrangère, contraintes d'intégrité et normalisation, ainsi que les principes de requêtage SQL de base.
+Présentation des principales structures de données : notion de données structurées, de format informatique, modèle tabulaire et modèle hiérarchique. Initiation aux bases de données relationnelles et au modèle relationnel. Cette séance prolonge la modélisation entité-association abordée au TP8 et montre comment passer du schéma conceptuel au schéma logique puis à la création effective d'une base de données. Sont abordées les notions de table, clé primaire, clé étrangère, contraintes d'intégrité et normalisation, ainsi que les principes de requêtage SQL de base.
 
 Activité en classe : 
 - discussion sur lectures 
