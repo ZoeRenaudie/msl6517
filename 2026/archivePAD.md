@@ -47,7 +47,7 @@ https://app.diagrams.net/#G1wdq5uiNSuuTFuKSbdoZShTH-lhNzWB9L#%7B%22pageId%22%3A%
 
 Je pourrai aussi utiliser la cardinalité exposée dans la vidéo Youtube si je le fais à la main avant d'utiliser.
 
- j'ai compris qu'il y avait effectivement le premier chiffre qui était le min et le second est le max.
+j'ai compris qu'il y avait effectivement le premier chiffre qui était le min et le second est le max.
 
 J'ai eu ces réponses à mes questionnements dans la vidéo YOUTUBE. Merci.
 
@@ -84,7 +84,7 @@ https://drive.google.com/file/d/1i6zccUO2vxdCIAACANUuAn9GFnLXR5KW/view?usp=shari
 ### ALEJANDRO CÁMEZ
 
 Premier essai :
-    
+
 Dans ma première esquisse, j'avais adopté une approche plus complexe. J'étais pas sur de comment distribuer les informations. J’avais utilisé les concepts de primary key et de foreign key  pour identifier les données et établir des relations entre les tables. J’essayais surtout de mieux comprendre les aspects techniques car je n’arrivais pas encore à bien comprendre les fonctionnalités visuelles de l’outil.
 
 J’avais réussi à classer les informations dans différentes tables, mais je n’étais pas encore sûr de la manière d’établir les liens entre elles.  J'avais créé plusieurs tables d'association sans vraiment savoir si elles étaient toutes nécessaires.
@@ -98,14 +98,14 @@ Deuxième essai :
 J’ai donc décidé de recommencer dans un nouveau fichier, en m’appuyant davantage sur le modèle de référence proposé dans Studium. J'’ai utilisé des losanges pour représenter directement les relations entre les entités. Le schéma est maintenant moins chargé et plus facile à lire.
 
 
-    .DRAWIO
-    
-    https://drive.google.com/file/d/1ND-IpC39TwwtjLY0SLBXkYZrDSFsypGg/view?usp=sharing
+.DRAWIO
+
+https://drive.google.com/file/d/1ND-IpC39TwwtjLY0SLBXkYZrDSFsypGg/view?usp=sharing
 
 
-    .PDF 
-    
-    https://drive.google.com/file/d/1k9g_bTVtzLKSE9yyfbWmYMYxYcNXAib8/view?usp=sharing
+.PDF 
+
+https://drive.google.com/file/d/1k9g_bTVtzLKSE9yyfbWmYMYxYcNXAib8/view?usp=sharing
 
 
 ### Pascale Tétreault
@@ -175,7 +175,7 @@ Points forts : Très respectueux des standards muséaux, fonctionnalités rigour
 Inconvénients : Nécessite un hébergement Cloud payant via Lyrasis ou une expertise informatique interne pour ne pas se retrouver bloqué lors des mises à jour.
 
 ALORS SI LE OPEN ACCES EST TROP RISQUÉ, voici les recommendations de l'I.A. qui connait mes paramètres et mes 14 fournisseurs mais pas mes critères:
-    Synthèse des recommandations
+Synthèse des recommandations
 Pour utiliser au mieux votre enveloppe financière de migration cette année, voici la stratégie recommandée :
 
 Si vous voulez le risque informatique ZÉRO et le budget le plus bas : Optez pour eHive. Vous payez un abonnement annuel minime, l'outil est prêt en 5 minutes et la publication sur internet est incluse.
@@ -242,109 +242,109 @@ Ressource en ligne, accessible par plusieurs navigateurs, mais mention que l’i
 Critères de sélection RCIP (selon les besoins du musée) 
 
 
-    Prioritaire
-    
-    H.1 - Fonctions d'importation et d'exportation
-    
-    I.1 - Documentation et assistance technique
-    
-    J.1 - Sécurité
-    
-    A.4 - Inventaire
-    
-    A.5 - Catalogage
-    
-    A.2 - Acquisition et enregistrement
-    
-    D.7 - Contrôle du vocabulaire
-    
-    J.3 - Sauvegarde
+Prioritaire
+
+H.1 - Fonctions d'importation et d'exportation
+
+I.1 - Documentation et assistance technique
+
+J.1 - Sécurité
+
+A.4 - Inventaire
+
+A.5 - Catalogage
+
+A.2 - Acquisition et enregistrement
+
+D.7 - Contrôle du vocabulaire
+
+J.3 - Sauvegarde
 
 
-    Souhaitable
-    
-    E.5 - Bilinguisme
-    
-    I.2.4 – Formation à distance
-    
-    I.2.5 – Formation – multilingue
-    
-    E.4.1 - Écrans de saisie
-    
-    C.3.8 - Partage
-    
-    C.3 - Fonctions d'accès public
-    
-    C.3.22 - Statistiques sur les visiteurs
-    
-    J.4.3 – Modifications
+Souhaitable
+
+E.5 - Bilinguisme
+
+I.2.4 – Formation à distance
+
+I.2.5 – Formation – multilingue
+
+E.4.1 - Écrans de saisie
+
+C.3.8 - Partage
+
+C.3 - Fonctions d'accès public
+
+C.3.22 - Statistiques sur les visiteurs
+
+J.4.3 – Modifications
 
 
 
-    1) eHive
+1) eHive
 
 
-    Personnel et budget :  L'abonnement Silver à 300 $ USD/an pour trois utilisateurs facilite la planification budgétaire. Les informations sur les tarifs sont plus claires et deviennent plus faciles à prévoir dans un budget.
+Personnel et budget :  L'abonnement Silver à 300 $ USD/an pour trois utilisateurs facilite la planification budgétaire. Les informations sur les tarifs sont plus claires et deviennent plus faciles à prévoir dans un budget.
 
 
-    Interface :  Relativement simple, ne dépend pas de connaissances informatiques avancées. Il permet aussi, d'intégrer des photographies facilement pour la gestion documentaire. Accessible sur ordinateur, tablette et téléphone
+Interface :  Relativement simple, ne dépend pas de connaissances informatiques avancées. Il permet aussi, d'intégrer des photographies facilement pour la gestion documentaire. Accessible sur ordinateur, tablette et téléphone
 
 
-    Maintenance : Le logiciel fonctionne avec des mises à jour et des sauvegardes automatiques, ce qui réduit le travail informatique / manuel des employées.  Hébergement infonuagique des données (stockage des données sur des serveurs externes).
+Maintenance : Le logiciel fonctionne avec des mises à jour et des sauvegardes automatiques, ce qui réduit le travail informatique / manuel des employées.  Hébergement infonuagique des données (stockage des données sur des serveurs externes).
 
 
-    Migration des données : Possibilité d'importer des données d'un fichier d'Excel ou XML. Compatibilité avec l'ancienne base de données à vérifier. 
+Migration des données : Possibilité d'importer des données d'un fichier d'Excel ou XML. Compatibilité avec l'ancienne base de données à vérifier. 
 
 
-    Stockage :  20,000 notices et 5 Go de stockage. Adapté aux besoins du musée fictif.
+Stockage :  20,000 notices et 5 Go de stockage. Adapté aux besoins du musée fictif.
 
 
-    Diffusion en ligne : Il intègre aussi la possibilité de publier les collections en ligne grâce à des plugins WordPress, qui facilitent la diffusion des collections directement sur le site web existant du musée
+Diffusion en ligne : Il intègre aussi la possibilité de publier les collections en ligne grâce à des plugins WordPress, qui facilitent la diffusion des collections directement sur le site web existant du musée
 
 
-    Enjeux : Connexion Internet obligatoire pour utilisation (tout est dans la cloud). Soutien technique principalement en anglais, ce qui pourrait représenter un enjeu pour les employés d’un musée en région qui ne sont pas bilingues.
+Enjeux : Connexion Internet obligatoire pour utilisation (tout est dans la cloud). Soutien technique principalement en anglais, ce qui pourrait représenter un enjeu pour les employés d’un musée en région qui ne sont pas bilingues.
 
 
-    2 ) S-Museum SKINsoft
+2 ) S-Museum SKINsoft
 
 
-    Personnel et budget : Les tarifs ne sont pas directement disponibles et nécessitent une demande de devis auprès du fournisseur (complication du planification budgétaire).
+Personnel et budget : Les tarifs ne sont pas directement disponibles et nécessitent une demande de devis auprès du fournisseur (complication du planification budgétaire).
 
 
-    Soutien technique : Bilingue, avec une présence du fournisseur à Montréal et la possibilité d'offrir du soutien à distance.  
+Soutien technique : Bilingue, avec une présence du fournisseur à Montréal et la possibilité d'offrir du soutien à distance.  
 
 
-    Interface : Permet de modifier plusieurs notices à la fois, ce qui réduit le travail répétitif des employés permet de gagner du temps et rend la gestion des collections plus efficace.) Possibilité d'utiliser des codes-barres dans les inventaires. Gestion des autorisations des utilisateurs et contrôle d'historique des modifications (imaginons le musée embauche un stagiaire ou crée un nouveau poste avec un accès limité à la gestion.)
+Interface : Permet de modifier plusieurs notices à la fois, ce qui réduit le travail répétitif des employés permet de gagner du temps et rend la gestion des collections plus efficace.) Possibilité d'utiliser des codes-barres dans les inventaires. Gestion des autorisations des utilisateurs et contrôle d'historique des modifications (imaginons le musée embauche un stagiaire ou crée un nouveau poste avec un accès limité à la gestion.)
 
 
-    Diffusion en ligne : Dispose d'un module (SKINweb) pour la publication des collections sur internet. Il faudrait vérifier si ce module entraîne des coûts supplémentaires.
+Diffusion en ligne : Dispose d'un module (SKINweb) pour la publication des collections sur internet. Il faudrait vérifier si ce module entraîne des coûts supplémentaires.
 
 
-    Stockage : Pas précisé dans la fiche RCIP. Faudrait vérifier avec le fournisseur.
+Stockage : Pas précisé dans la fiche RCIP. Faudrait vérifier avec le fournisseur.
 
 
-    Migration des données : Possibilité de transférer les donnés d'une base ancienne avec un accompagnement technique du fournisseur (réduire les risques de problèmes de compatibilité). 
+Migration des données : Possibilité de transférer les donnés d'une base ancienne avec un accompagnement technique du fournisseur (réduire les risques de problèmes de compatibilité). 
 
 
-    3) MINISIS - M3
+3) MINISIS - M3
 
 
-    Personnel et budget : Aucun tarif de base n'est directement disponible. Le prix dépend du nombre d'utilisateurs, des services et des modules choisis.
+Personnel et budget : Aucun tarif de base n'est directement disponible. Le prix dépend du nombre d'utilisateurs, des services et des modules choisis.
 
 
-    Interface : Dispose de plus de 6,000 champs prédéfinis pour la documentation des collections. De cette façon, l'utilisateur / les employés n'ont pas besoin de créer eux même tous les champs nécessaires pour le catalogage de la collection.
+Interface : Dispose de plus de 6,000 champs prédéfinis pour la documentation des collections. De cette façon, l'utilisateur / les employés n'ont pas besoin de créer eux même tous les champs nécessaires pour le catalogage de la collection.
 
 
-    Migration des données : Service de transfert offri par le fournisseur.
+Migration des données : Service de transfert offri par le fournisseur.
 
 
-    Soutien technique : Offre de l'assistance multilingue et des formations à distance, facilite l'apprentissage du logiciel pour les employés sans invertir en se déplacer.
+Soutien technique : Offre de l'assistance multilingue et des formations à distance, facilite l'apprentissage du logiciel pour les employés sans invertir en se déplacer.
 
 
-    Diffusion en ligne : Dispose aussi d'un outil (MWI) pour créer des interfaces web personnalisables et diffuser les collections sur Internet (pourrait entraîner des coûts supplémentaires).
+Diffusion en ligne : Dispose aussi d'un outil (MWI) pour créer des interfaces web personnalisables et diffuser les collections sur Internet (pourrait entraîner des coûts supplémentaires).
 
 
-    Enjeux :  Le grand nombre de fonctionnalités pourraient demander plus de temps de formation.
+Enjeux :  Le grand nombre de fonctionnalités pourraient demander plus de temps de formation.
 
 
 
@@ -366,186 +366,186 @@ Par ailleurs, leur site web est également très facile à utiliser et propose p
 Je suis partie des caractéristique de l’Institution pour faire ressortir les besoins primaires, outre les critères technologiques : personnel réduit, l’importance du soutien technique, en français (plusieurs solutions offrent seulement du soutien en anglais). J’ai voulu éviter toutes les solutions américaines, en raison du contexte politique actuel. Je n’ai consulté que les offres proposées sur le site du RCIP.
 
 
-    La première solution examinée :
-    
-    S-Museum par Skinsoft
-    
-    Services offerts en français (c’est une compagnie française), un bureau au Québec.
-    
-    Assistance multiforme : courriel, téléphone et une plateforme de support en ligne.
-    
-    Des formations supplémentaires sont disponibles, mais elles sont payantes.
-    
-    Le coût : le bugdet varie, selon le nombre d’utilisateurs, ce qui est peu pertinent pour la taille du musée en région qui embauche seulement deux employés à temps complet.
-    
-    S-Museum s’adapte à tous les environnements, peut être utilisé à partir d’un ordinateur de bureau, de téléphone portable ou même d’une tablette. 
-    
-    Intéressant d’avoir des modules complémentaires jumelables, le Musée peut se procurer seulement les modules dont il a besoin.
-    
-    Environnement infonuagique, accessible d’où on veut, mais si Internet ne fonctionne pas (en raison d’une panne d’un serveur ou autre), cela peut poser problème pour l’accessibilité.
+La première solution examinée :
+
+S-Museum par Skinsoft
+
+Services offerts en français (c’est une compagnie française), un bureau au Québec.
+
+Assistance multiforme : courriel, téléphone et une plateforme de support en ligne.
+
+Des formations supplémentaires sont disponibles, mais elles sont payantes.
+
+Le coût : le bugdet varie, selon le nombre d’utilisateurs, ce qui est peu pertinent pour la taille du musée en région qui embauche seulement deux employés à temps complet.
+
+S-Museum s’adapte à tous les environnements, peut être utilisé à partir d’un ordinateur de bureau, de téléphone portable ou même d’une tablette. 
+
+Intéressant d’avoir des modules complémentaires jumelables, le Musée peut se procurer seulement les modules dont il a besoin.
+
+Environnement infonuagique, accessible d’où on veut, mais si Internet ne fonctionne pas (en raison d’une panne d’un serveur ou autre), cela peut poser problème pour l’accessibilité.
 
 
-​     
+​
 
-    Deuxième solution présentée :
-    
-    Minisis
-    
-    Offert par une compagnie canadienne basée à Vancouver. Une variété de disciplines est prise en charge
-    
-    Il s’agit d’une application à télécharger.
-    
-    Entreprise existant depuis les années 70 en entreprenariat social;
-    
-    Exportation facile
-    
-    Coûts : selon le nombre d’utilisateurs (plus ou moins pertinent) et des produits demandés.
-    
-    Plusieurs frais supplémentaires exigés pour différents services.
-    
-    Soutien polyvalent, dans plusieurs langues, ce qui représente un atout considérable.
-    
-    Plus de 6 000 champs prédéfinis, peu de personnalisation est à faire et le personnel du musée peut le faire de façon autonome puisque le système est facile d’utilisation.
-    
-    Les outils logiciels de MINISIS ont été conçus pour permettre aux utilisateurs de créer, de modifier et de gérer des applications sans avoir à posséder de connaissances dans le domaine de la programmation.
-    
-    La migration semble être un processus relativement aisé qui est prise en charge par la compagnie. Le Musée ne souhaite pas éprouver des problèmes durant cette étape cruciale.
-    
-    Minisis a été achetée récemment par Soutron Global, une compagnie britannique qui a fait ses preuves dans le domaine des solutions technologiques pour les musées depuis de nombreuses années.
+Deuxième solution présentée :
 
+Minisis
 
-​     
+Offert par une compagnie canadienne basée à Vancouver. Une variété de disciplines est prise en charge
 
-    Troisième solution envisagée :
-    
-    Our Digital World
-    
-    Compagnie canadienne fondée en 2012, logiciel web, donc solution infonuagique.
-    
-    Soutien 24 / 7, mais en anglais seulement.
-    
-    Le logiciel ne permet pas de gestion d’inventaire.
-    
-    Les recherches n’ont pas été approfondies davantage en raison de ces critères dissuasifs.
+Il s’agit d’une application à télécharger.
+
+Entreprise existant depuis les années 70 en entreprenariat social;
+
+Exportation facile
+
+Coûts : selon le nombre d’utilisateurs (plus ou moins pertinent) et des produits demandés.
+
+Plusieurs frais supplémentaires exigés pour différents services.
+
+Soutien polyvalent, dans plusieurs langues, ce qui représente un atout considérable.
+
+Plus de 6 000 champs prédéfinis, peu de personnalisation est à faire et le personnel du musée peut le faire de façon autonome puisque le système est facile d’utilisation.
+
+Les outils logiciels de MINISIS ont été conçus pour permettre aux utilisateurs de créer, de modifier et de gérer des applications sans avoir à posséder de connaissances dans le domaine de la programmation.
+
+La migration semble être un processus relativement aisé qui est prise en charge par la compagnie. Le Musée ne souhaite pas éprouver des problèmes durant cette étape cruciale.
+
+Minisis a été achetée récemment par Soutron Global, une compagnie britannique qui a fait ses preuves dans le domaine des solutions technologiques pour les musées depuis de nombreuses années.
 
 
-​     
+​
 
-    La solution gagnante est :
-    
-    MINISIS
+Troisième solution envisagée :
+
+Our Digital World
+
+Compagnie canadienne fondée en 2012, logiciel web, donc solution infonuagique.
+
+Soutien 24 / 7, mais en anglais seulement.
+
+Le logiciel ne permet pas de gestion d’inventaire.
+
+Les recherches n’ont pas été approfondies davantage en raison de ces critères dissuasifs.
 
 
-​     
+​
 
-    Il s’agit d’une compagnie canadienne, le soutien technique est offert en français, la migration de l’ancien système vers le nouveau semble assez facile. Cette solution technologique répond à des critères de base à considérer pour un musée de région avec peu de moyen et peu de personnel, outre les critères d’évaluation techniques du RCIP.
+La solution gagnante est :
+
+MINISIS
 
 
-​     
+​
+
+Il s’agit d’une compagnie canadienne, le soutien technique est offert en français, la migration de l’ancien système vers le nouveau semble assez facile. Cette solution technologique répond à des critères de base à considérer pour un musée de région avec peu de moyen et peu de personnel, outre les critères d’évaluation techniques du RCIP.
+
+
+​
 
 ### Annabelle Fleury
 
 Pour commencer, j’ai recherché Emu (anciennement KeEmu), FilemakerPro, Microsoft Access et SKINSoft, puisque ce sont des bases de données que je connaissais déjà. Ensuite, j’ai téléchargé la fiche Excel d’évaluation recommandé par RCIP. J’ai ajouté des colonnes pour chaque logiciel que je voulais évaluer et j’ai ajouté des conditions de couleur pour voir quel logiciel répondrait le mieux à la demande.
 
 
-    À ma surprise, FilemakerPro existait encore (il a été racheté par Claris), mais celui-ci s’est tourné vers l’intelligence artificielle et il en fait beaucoup la promotion. De plus, au lieu d’être un programme téléchargeable comme il l’a été jadis, il est maintenant sur une plateforme web avec application mobile. Par soucis de protection de données, j’ai laissé de côté FilemakerPro. Pour Microsoft Access, considérant qu’il faut tout faire nous même à partir de zéro, je ne crois pas que ce soit pertinent de le présenter considérant le contexte du musée (petite équipe, grande collection, migration de données, etc.).
+À ma surprise, FilemakerPro existait encore (il a été racheté par Claris), mais celui-ci s’est tourné vers l’intelligence artificielle et il en fait beaucoup la promotion. De plus, au lieu d’être un programme téléchargeable comme il l’a été jadis, il est maintenant sur une plateforme web avec application mobile. Par soucis de protection de données, j’ai laissé de côté FilemakerPro. Pour Microsoft Access, considérant qu’il faut tout faire nous même à partir de zéro, je ne crois pas que ce soit pertinent de le présenter considérant le contexte du musée (petite équipe, grande collection, migration de données, etc.).
 
 
-    Concernant SKINSoft, personnellement, je ne suis pas une grande « fan » de SKINSoft (les S-Core)… Je n’aime simplement pas la plateforme et je ne la considère pas « user friendly » comme elle prétendais l’être lorsque j’étais au Cégep. De plus, tout est enregistré dans un nuage. Cela signifie que sans internet, nous n’avons pas accès à la plateforme. Je me souviens d’avoir eu énormément de difficultés avec mes collègues de classe à cause de l’utilisation du nuage : nous avons eu des problèmes de synchronisation majeur, empêchant de travailler correctement, sans perte de temps. Nous avions eu beaucoup de problème au niveau de la connexion aussi. J’ose imaginer que ces problèmes ce sont résolus au courant des dernières années. Cependant, je dois avouer que la plateforme a été conçue pour le domaine muséale. Elle répond donc aux critères du RCIP et de Spectrum concernant les bases de données. Une autre force est qu‘il existe un bureau au Canada, à Drummondville (https://www.canada.ca/en/heritage-information-network/services/collections-management-systems/collections-management-software-vendor-profiles/s-museum-skinsoft-profile.html). 
+Concernant SKINSoft, personnellement, je ne suis pas une grande « fan » de SKINSoft (les S-Core)… Je n’aime simplement pas la plateforme et je ne la considère pas « user friendly » comme elle prétendais l’être lorsque j’étais au Cégep. De plus, tout est enregistré dans un nuage. Cela signifie que sans internet, nous n’avons pas accès à la plateforme. Je me souviens d’avoir eu énormément de difficultés avec mes collègues de classe à cause de l’utilisation du nuage : nous avons eu des problèmes de synchronisation majeur, empêchant de travailler correctement, sans perte de temps. Nous avions eu beaucoup de problème au niveau de la connexion aussi. J’ose imaginer que ces problèmes ce sont résolus au courant des dernières années. Cependant, je dois avouer que la plateforme a été conçue pour le domaine muséale. Elle répond donc aux critères du RCIP et de Spectrum concernant les bases de données. Une autre force est qu‘il existe un bureau au Canada, à Drummondville (https://www.canada.ca/en/heritage-information-network/services/collections-management-systems/collections-management-software-vendor-profiles/s-museum-skinsoft-profile.html). 
 
 
-    Personnellement, nous utilisons KeEmu où je travaille. Nous travaillons sur une ancienne version qui est téléchargé directement sur l’ordinateur (programme téléchargé). J’ai fait l’évaluation sur Excel sur RCIP et je remarqué qu’il nous manquait quelques éléments qui pourraient améliorer le catalogage, la documentation et le suivi des objets! MAIS, comme SKINSoft, Emu répond majoritairement aux critères demandés par le RCIP. De plus, Emu a été acheté par Axiell, une logiciel que je recommande plus tard dans le TP.
+Personnellement, nous utilisons KeEmu où je travaille. Nous travaillons sur une ancienne version qui est téléchargé directement sur l’ordinateur (programme téléchargé). J’ai fait l’évaluation sur Excel sur RCIP et je remarqué qu’il nous manquait quelques éléments qui pourraient améliorer le catalogage, la documentation et le suivi des objets! MAIS, comme SKINSoft, Emu répond majoritairement aux critères demandés par le RCIP. De plus, Emu a été acheté par Axiell, une logiciel que je recommande plus tard dans le TP.
 
 
-    J’ai ouvert les pages web d’un côté et je me suis tourné vers Reddit (vieil ami, il y a réponse à tout sur ce réseau social). J’ai fait une recherche du type ‘’Best museum database’’ pour voir ce qu’il en ressortait. Je suis tombée sur ce billet : https://www.reddit.com/r/MuseumPros/comments/xyli71/best_museum_database/. Il y a un commentaire qui mentionnait les grands joueurs et je les ai tous regardé rapidement. J’ai aussi regardé les autres propositions de certains commentaires. Je suis tombée sur Axiell (Suisse, bureau à Toronto), Tainacan (Brésil), MuseumPlus (Suisse) et Qi (Royaume-Uni).
+J’ai ouvert les pages web d’un côté et je me suis tourné vers Reddit (vieil ami, il y a réponse à tout sur ce réseau social). J’ai fait une recherche du type ‘’Best museum database’’ pour voir ce qu’il en ressortait. Je suis tombée sur ce billet : https://www.reddit.com/r/MuseumPros/comments/xyli71/best_museum_database/. Il y a un commentaire qui mentionnait les grands joueurs et je les ai tous regardé rapidement. J’ai aussi regardé les autres propositions de certains commentaires. Je suis tombée sur Axiell (Suisse, bureau à Toronto), Tainacan (Brésil), MuseumPlus (Suisse) et Qi (Royaume-Uni).
 
 
-    L’offre varient vraiment d’un logiciel à l’autre. Il est vraiment important de savoir ces besoins avant d’entamer la recherche. Voici les critères que j’ai retenu que je croyais prioritaires : petite équipe (doit avoir un logiciel cohérent et facile d’utilisation), musée de région (potentiel de collection diversifiée (histoire, science, art…)), plusieurs milliers d’artefacts, base de données relationnelle obsolète (doit avoir un logiciel dont il est possible de faire un transfert de données de l’ancienne base de données à la nouvelle, financement possible pour cette année et doit respecter les normes Spectrum au minimum / rencontrer les exigences minimale du RCIP. Au début, j’ai tenté de gardé tout le tableau, mais c’était trop long. Je me suis donc contenter de garder les critère avec les astérisques (le RCIP considérait ces critères comme étant la base). 
+L’offre varient vraiment d’un logiciel à l’autre. Il est vraiment important de savoir ces besoins avant d’entamer la recherche. Voici les critères que j’ai retenu que je croyais prioritaires : petite équipe (doit avoir un logiciel cohérent et facile d’utilisation), musée de région (potentiel de collection diversifiée (histoire, science, art…)), plusieurs milliers d’artefacts, base de données relationnelle obsolète (doit avoir un logiciel dont il est possible de faire un transfert de données de l’ancienne base de données à la nouvelle, financement possible pour cette année et doit respecter les normes Spectrum au minimum / rencontrer les exigences minimale du RCIP. Au début, j’ai tenté de gardé tout le tableau, mais c’était trop long. Je me suis donc contenter de garder les critère avec les astérisques (le RCIP considérait ces critères comme étant la base). 
 
 
-    Recommandations
-    
-    1) AXIELL
-    
-    Avantages : 
-    
-    - Logiciel développé pour le catalogage muséal : catalogage, acquisitions, prêts, mouvements, entreposage, conservation et gestion d'événements
-    
-    - Logiciel accessible en ligne : cela permet de se connecter n'importe où, tant et aussi longtemps qu'une connexion internet est disponible. 
-    
-    - Logiciel disponible sur tablette
-    
-    - Logiciel user friendly 
-    
-    - Logiciel modulable pour selon les besoins de l'institution
-    
-    - S'alligne avec les normes Spectrum, ISAD(G), DACS, RAD, RDA, MARC, FRBR, EN15907, CIDOC et Getty 'Object ID.
-    
-    - Multilingue
-    
-    - Possibilité de secure access : protection de données sensibles avec accès restreint
-    
-    - Téléchargement d'images en très haute qualité disponible
-    
-    - Barre de recherche
-    
-    - Possibilité de publié la collection en ligne directement avec le logiciel
-    
-    - Le logiciel permet de cataloguer plusieurs types de collection en même temps (archives, arts et anthropologie, par exemple).
-    
-    - Possibilité de planifier une exposition directement sur le logiciel, directement en contact avec les objets de la collection
-    
-    - Création de thesaurus / listes d'autorité disponible
-    
-    - Possibilité de télécharger des données en format CSV et d'exporter les données en format XML ou Excel
-    
-    - Possibilité de intégré des 3rd party software dans des API ouverte.
+Recommandations
+
+1) AXIELL
+
+Avantages : 
+
+- Logiciel développé pour le catalogage muséal : catalogage, acquisitions, prêts, mouvements, entreposage, conservation et gestion d'événements
+
+- Logiciel accessible en ligne : cela permet de se connecter n'importe où, tant et aussi longtemps qu'une connexion internet est disponible. 
+
+- Logiciel disponible sur tablette
+
+- Logiciel user friendly 
+
+- Logiciel modulable pour selon les besoins de l'institution
+
+- S'alligne avec les normes Spectrum, ISAD(G), DACS, RAD, RDA, MARC, FRBR, EN15907, CIDOC et Getty 'Object ID.
+
+- Multilingue
+
+- Possibilité de secure access : protection de données sensibles avec accès restreint
+
+- Téléchargement d'images en très haute qualité disponible
+
+- Barre de recherche
+
+- Possibilité de publié la collection en ligne directement avec le logiciel
+
+- Le logiciel permet de cataloguer plusieurs types de collection en même temps (archives, arts et anthropologie, par exemple).
+
+- Possibilité de planifier une exposition directement sur le logiciel, directement en contact avec les objets de la collection
+
+- Création de thesaurus / listes d'autorité disponible
+
+- Possibilité de télécharger des données en format CSV et d'exporter les données en format XML ou Excel
+
+- Possibilité de intégré des 3rd party software dans des API ouverte.
 
 
-    Désavantages
-    
-    - Logiciel '' à la carte''
-    
-    *Doit absolument prendre rendez-vous ou demander un devis pour savoir les prix*
+Désavantages
+
+- Logiciel '' à la carte''
+
+*Doit absolument prendre rendez-vous ou demander un devis pour savoir les prix*
 
 
-    2) MuseumPlus par Zetcom
-    
-    **Mêmes avantages qu'Axiel
-    
-    - Aussi membre de plusieurs organisations, dont ICOM, CIDOC, AAM, Canadian Heritage Information Network (CHIN Accreditation)
-    
-    - Ateliers disponibles
-    
-    - Grand avantage pour une petite institution : MuseumPlus propose du support informatique pour les institutions ne possédant pas de soutien au nivaux de l'information (aucun technicien, par exemple)
+2) MuseumPlus par Zetcom
+
+**Mêmes avantages qu'Axiel
+
+- Aussi membre de plusieurs organisations, dont ICOM, CIDOC, AAM, Canadian Heritage Information Network (CHIN Accreditation)
+
+- Ateliers disponibles
+
+- Grand avantage pour une petite institution : MuseumPlus propose du support informatique pour les institutions ne possédant pas de soutien au nivaux de l'information (aucun technicien, par exemple)
 
 
-    Désavantages
-    
-    - Présence plutôt sur le côté Européen, il pourrait y avoir des difficultés de communications en cas de problèmes (décalage horaire?)
-    
-    - Logiciel '' à la carte''
-    
-    *Doit absolument prendre rendez-vous ou demander un devis pour savoir les prix*
+Désavantages
+
+- Présence plutôt sur le côté Européen, il pourrait y avoir des difficultés de communications en cas de problèmes (décalage horaire?)
+
+- Logiciel '' à la carte''
+
+*Doit absolument prendre rendez-vous ou demander un devis pour savoir les prix*
 
 
-    3) GallerySystems TMS Suite
-    
-    Avantages
-    
-    - Mêmes avantages que MuseumPlus et Axiell
-    
-    - Partage de la collection en ligne directement à partir des mises à jour réalisées dans la base de données
+3) GallerySystems TMS Suite
+
+Avantages
+
+- Mêmes avantages que MuseumPlus et Axiell
+
+- Partage de la collection en ligne directement à partir des mises à jour réalisées dans la base de données
 
 
-    Désavantages
-    
-    - Logiciel '' à la carte''
-    
-    *Doit absoulement prendre rendez-vous ou demander un devis pour savoir les prix*
+Désavantages
+
+- Logiciel '' à la carte''
+
+*Doit absoulement prendre rendez-vous ou demander un devis pour savoir les prix*
 
 
-    Autrement, un autre logiciel à considérer serait PastPerfect. C'est un des seuls vendeurs que j'ai trouvé qui affiche ses prix en ligne! Cette transparence gagne, selon moi, bien des points (https://museumsoftware.com/webedition.html). J'ai aussi cherché des plateformes gratuites. J'ai trouvé Omeka et Tainacan (open sources avec possibilités de travailler avec des bases comme Wikidata). Cependant, ces styles de plateforme demandent beaucoup plus de connaissances au préalables. Ça s'apprend, mais considérant une petite équipe de deux personnes et possiblement des bénévoles, je ne recommande pas de commencer avec une base de données avec ces types de manipulations qui peut paraître titanesque, pour débuter une base de données. Même chose avec Microsoft Access : oui, l'application est souvent déjà présente dans les logiciels professionnels (bien souvent dû à l'utilisation de Outlook, Word, Excel, etc.) et, oui, l'application est modulable (« costumizable ») en un sens, mais tout doit être fait à partir de zéro. Si une erreur est réalisée en début de parcours, il est difficile de la corriger sur toutes les fiches réalisées par la suite. Personnellement, je crois que c'est bien trop de travail pour une petite équipe.
+Autrement, un autre logiciel à considérer serait PastPerfect. C'est un des seuls vendeurs que j'ai trouvé qui affiche ses prix en ligne! Cette transparence gagne, selon moi, bien des points (https://museumsoftware.com/webedition.html). J'ai aussi cherché des plateformes gratuites. J'ai trouvé Omeka et Tainacan (open sources avec possibilités de travailler avec des bases comme Wikidata). Cependant, ces styles de plateforme demandent beaucoup plus de connaissances au préalables. Ça s'apprend, mais considérant une petite équipe de deux personnes et possiblement des bénévoles, je ne recommande pas de commencer avec une base de données avec ces types de manipulations qui peut paraître titanesque, pour débuter une base de données. Même chose avec Microsoft Access : oui, l'application est souvent déjà présente dans les logiciels professionnels (bien souvent dû à l'utilisation de Outlook, Word, Excel, etc.) et, oui, l'application est modulable (« costumizable ») en un sens, mais tout doit être fait à partir de zéro. Si une erreur est réalisée en début de parcours, il est difficile de la corriger sur toutes les fiches réalisées par la suite. Personnellement, je crois que c'est bien trop de travail pour une petite équipe.
 
 
 
@@ -595,63 +595,63 @@ Pour faire mon choix, je me suis basée sur les points suivant : la facilité d'
 
 S-Museum :  
 
-    Prix selon la taille de l'institution et l'ampleur de ses collections, donc possiblement une option intéressante au niveau budget
-    
-    Service de soutien assez étoffé en plus des frais de soutien qui sont inclus dans les frais de contrat
-    
-    Peux s'adapter aux besoins spécifiques de chaque établissement en prenant en compte des thésaurus/vocabulaires controlés locaux ou en utilisé par une institution
-    
-    Application web, permettant la possibilité de travailler sur plusieurs postes
-    
-    Prend en charge la migration de données à partir d'anciennes bases de données
-    
-    Possibilité d'exporter des documents de formats Excel, PDF, CSV, JSON, XML 
-    
-    Schéma de métadonnées configurable
-    
-    Compatible avec la norme Spectrum
+Prix selon la taille de l'institution et l'ampleur de ses collections, donc possiblement une option intéressante au niveau budget
+
+Service de soutien assez étoffé en plus des frais de soutien qui sont inclus dans les frais de contrat
+
+Peux s'adapter aux besoins spécifiques de chaque établissement en prenant en compte des thésaurus/vocabulaires controlés locaux ou en utilisé par une institution
+
+Application web, permettant la possibilité de travailler sur plusieurs postes
+
+Prend en charge la migration de données à partir d'anciennes bases de données
+
+Possibilité d'exporter des documents de formats Excel, PDF, CSV, JSON, XML 
+
+Schéma de métadonnées configurable
+
+Compatible avec la norme Spectrum
 
 CollectiveAccess : 
 
-    Compatible avec Windows mais non recommandé
-    
-    Application web, permettant la possibilité de travailler sur plusieurs postes (+ disponible en ligne)
-    
-    Éventail de choix de formats d'importation et d'exportation 
-    
-    Schéma de métadonnées XML
-    
-    Soutien en anglais seulement
-    
-    possible d’établir des vocabulaires personnalisés par projet
-    
-    La recherche en texte intégral est possible
-    
-    Prend en charge la migration de données à partir d'anciennes bases de données
-    
-    Peux s'adapter aux besoins spécifiques de chaque établissement en prenant en compte des thésaurus/vocabulaires controlés locaux ou en utilisé par une institution
+Compatible avec Windows mais non recommandé
+
+Application web, permettant la possibilité de travailler sur plusieurs postes (+ disponible en ligne)
+
+Éventail de choix de formats d'importation et d'exportation 
+
+Schéma de métadonnées XML
+
+Soutien en anglais seulement
+
+possible d’établir des vocabulaires personnalisés par projet
+
+La recherche en texte intégral est possible
+
+Prend en charge la migration de données à partir d'anciennes bases de données
+
+Peux s'adapter aux besoins spécifiques de chaque établissement en prenant en compte des thésaurus/vocabulaires controlés locaux ou en utilisé par une institution
 
 Argus : 
 
-    Soutien disponible seulement en anglais et centre d'assistance est ouvert du lundi au vendredi de 3 h 30 à 20 h (qui est vraiment en décalé des heures d'opérations de la plupart des musées)
-    
-    La recherche en texte intégral est possible
-    
-    Soutien offert seulement avec achat de leur forfait SaaS. De plus, si l'institution choisi d'héberger argus sur son propre serveur, il est recommandé que quelqu'un de l'équipe soit en mesure de s'occuper du maintien du système
-    
-    Degré de personnalisation élevé, en plus de la configuration initiale par l'équipe de Lucidea selon les besoins initiaux de l'institution + formation avec l'outil de configuration
-    
-    Configuration des LOD non disponible 
-    
-    Application web, permettant la possibilité de travailler sur plusieurs postes (bémol = non disponible en ligne)
-    
-    Peux s'adapter aux besoins spécifiques de chaque établissement en prenant en compte des thésaurus/vocabulaires controlés locaux ou en utilisé par une institution
-    
-    Prend en charge la migration de données à partir d'anciennes bases de données
-    
-    Format d'importation et d'exportation limité
-    
-    Schéma de métadonnées configurable
+Soutien disponible seulement en anglais et centre d'assistance est ouvert du lundi au vendredi de 3 h 30 à 20 h (qui est vraiment en décalé des heures d'opérations de la plupart des musées)
+
+La recherche en texte intégral est possible
+
+Soutien offert seulement avec achat de leur forfait SaaS. De plus, si l'institution choisi d'héberger argus sur son propre serveur, il est recommandé que quelqu'un de l'équipe soit en mesure de s'occuper du maintien du système
+
+Degré de personnalisation élevé, en plus de la configuration initiale par l'équipe de Lucidea selon les besoins initiaux de l'institution + formation avec l'outil de configuration
+
+Configuration des LOD non disponible 
+
+Application web, permettant la possibilité de travailler sur plusieurs postes (bémol = non disponible en ligne)
+
+Peux s'adapter aux besoins spécifiques de chaque établissement en prenant en compte des thésaurus/vocabulaires controlés locaux ou en utilisé par une institution
+
+Prend en charge la migration de données à partir d'anciennes bases de données
+
+Format d'importation et d'exportation limité
+
+Schéma de métadonnées configurable
 
 
 À la lumière de la comparaison que j'ai effectué, S-Museum par Skinsoft me semble l'option la plus adéquate. Il offre une flexibilité qui est idéale pour accommoder les spécificités d'une petite institution+équipe, sans en offrir trop (qui pourrait décourager/faire peur aux employés). Il est possible d'y effectuer les critères dotés d'un * dans la liste du RCIP, surtout celles reliées aux procédures primaires de la norme Spectrum. 
@@ -667,20 +667,20 @@ Je n'ai pas trouvé le logiciel intuitif du tout. Il faut dire que c'est la tout
 
 ### Pascale Tétreault
 
-    Bonjour groupe ! Avez-vous été en mesure de réconcilier la date de naissance de tous les artistes sur OpenRefine ? Sous la date, c'est inscrit en rouge : « No. of recon objects was less than no. of jobs ».
-    
-    J'ai aussi eu le même message d'erreur en faisant la manipulation directement avec Reconcile. J'ai essayé de joindre deux colonnes, et ensuite j'ai eu l'option Reconcile colomns et j'ai pu relier les données à Wikidata... je ne sais pas si ma réponse t'éclaire un peu...
-    
-    Moi ca semble avoir marché seulement la deuxième fois que j'ai essayé de le faire...  ah ok ! 
+Bonjour groupe ! Avez-vous été en mesure de réconcilier la date de naissance de tous les artistes sur OpenRefine ? Sous la date, c'est inscrit en rouge : « No. of recon objects was less than no. of jobs ».
+
+J'ai aussi eu le même message d'erreur en faisant la manipulation directement avec Reconcile. J'ai essayé de joindre deux colonnes, et ensuite j'ai eu l'option Reconcile colomns et j'ai pu relier les données à Wikidata... je ne sais pas si ma réponse t'éclaire un peu...
+
+Moi ca semble avoir marché seulement la deuxième fois que j'ai essayé de le faire...  ah ok ! 
 
 
-    Autre question : en ajoutant les données de Wikidata, les prénoms et noms des artistes se sont réunit dans une même colonne, devrais-je supprimer la colonne « prénom » ? En séparant la colonne, on ne peut plus avoir l'hyper lien vers le Wikidata de l'artiste... tu pourrais juste cacher la colonne si tu ne veux pas la voir, tout en gardant ton lien vers le Wiki.
+Autre question : en ajoutant les données de Wikidata, les prénoms et noms des artistes se sont réunit dans une même colonne, devrais-je supprimer la colonne « prénom » ? En séparant la colonne, on ne peut plus avoir l'hyper lien vers le Wikidata de l'artiste... tu pourrais juste cacher la colonne si tu ne veux pas la voir, tout en gardant ton lien vers le Wiki.
 
 
 ### Sandrine Daignault :
-    J'ai installé Open Refine sur mon ordinateur, mais celui-ci refuse d'ouvrir l'application. J'ai tenté de forcer la fermeture de l'application dans le Gestionnaire de tâches et de réouvrir mon ordinateur. Pour le moment, je vais tout de même faire les autres étapes concernant les tutoriels, ainsi l'analyse du jeu de données du MAC. 
-    
-    *J'ai réussi !*
+J'ai installé Open Refine sur mon ordinateur, mais celui-ci refuse d'ouvrir l'application. J'ai tenté de forcer la fermeture de l'application dans le Gestionnaire de tâches et de réouvrir mon ordinateur. Pour le moment, je vais tout de même faire les autres étapes concernant les tutoriels, ainsi l'analyse du jeu de données du MAC. 
+
+*J'ai réussi !*
 
 
 Je n'arrive pas à séparer les colonnes correctement. Dans l'Aperçu avant de créer la page, il faut sélectionner ''Use character ______ to enclose cells containing column separators''. J'ai tenté de sélectionner , OU ''. Si je sélectionne '' toutes les informations sont dans la premières colonne.  Si je sélecitonne la virgule, mes colones se séparent, mais complètement mélangées. Ça fait plusieurs heures que je suis dessus. 
@@ -698,30 +698,30 @@ Merci !
 
 OpenRefine : 
 
-    https://drive.google.com/file/d/1lhw_P--aIYgAmf4HsOuTDx5HzwAzK85_/view?usp=sharing
+https://drive.google.com/file/d/1lhw_P--aIYgAmf4HsOuTDx5HzwAzK85_/view?usp=sharing
 
 
-    Réfléchissez à une manière dont nous pourrions procéder pour améliorer notre jeu de données :
+Réfléchissez à une manière dont nous pourrions procéder pour améliorer notre jeu de données :
 
 
-    J'ai trouvé le cas d'Ado vraiment intéressant, car il m'a permis de voir des enjeux d'identification des meta données. Des noms courts comme Ado peuvent renvoyer à plusieurs résultats à manques des informations pour écarter les résultats qui ne correspondent pas à l'artiste.
+J'ai trouvé le cas d'Ado vraiment intéressant, car il m'a permis de voir des enjeux d'identification des meta données. Des noms courts comme Ado peuvent renvoyer à plusieurs résultats à manques des informations pour écarter les résultats qui ne correspondent pas à l'artiste.
 
 
-    J'ai failli commettre l'erreur de choisir les données d'une autre Ado, chanteuse, également d'origine japonaise à la place. Rechercher le nom de famille de l'artiste dans d'autres sources m'a permis de retrouver le bon identifiant sur Wikidata.
+J'ai failli commettre l'erreur de choisir les données d'une autre Ado, chanteuse, également d'origine japonaise à la place. Rechercher le nom de famille de l'artiste dans d'autres sources m'a permis de retrouver le bon identifiant sur Wikidata.
 
 
-    Il serait donc utile de consulter d'autres sources parfois pour compléter et vérifier les informations dans le cadre de la gestion des collections, afin de s'assurer qu'elles sont exactes, correctes, et fiables. 
-    
-    [oui!]
+Il serait donc utile de consulter d'autres sources parfois pour compléter et vérifier les informations dans le cadre de la gestion des collections, afin de s'assurer qu'elles sont exactes, correctes, et fiables. 
+
+[oui!]
 
 
-    Quelles autres ressources externes pourraient être utiles pour ces enrichissements?
+Quelles autres ressources externes pourraient être utiles pour ces enrichissements?
 
 
-    D'autres jeux de données provenant d'institutions / sources fiables, publications scientifiques / académiques, ou des outils d'inteligence artificielle pour la génération des formules utilisées dans OpenRefine.
+D'autres jeux de données provenant d'institutions / sources fiables, publications scientifiques / académiques, ou des outils d'inteligence artificielle pour la génération des formules utilisées dans OpenRefine.
 
 
-    J’ai utilisé Claude pour comprendre et générer certaines formules d’OpenRefine.
+J’ai utilisé Claude pour comprendre et générer certaines formules d’OpenRefine.
 
 
 ### Anne-Sophie Desbiens
@@ -789,9 +789,9 @@ Hannah B. Hölling, Object–Event–Performance: Art, Materiality, and Continui
 Anne Bénichou, Recréer/Scripter : mémoires et transmissions des œuvres performatives et chorégraphiques contemporaines, Dijon, Les Presses du Réel, 2015
 
 
-    [Et ta discussion avec Camille ;) Dans ce cas, c'est bien de la mentionner ou de citer une de ses publications, ne serait-ce que son article museonum. Oui c'est vrai!! 
-    
-    Sinon c'est très bien, le projet me semble grandement réalisable. Pense juste à problématiser ta recherche plus explicitement. Identifie les soucis qui peuvent être posés par la classification de la perf. Quelles sont tes hypothèses. Pourquoi t'intéresses-tu à la classification de la perf ? Si tu penses que la classification peut poser problème dis clairement que tu veux voir comment les musées au Quebec s'en sortent face à cette difficulté. ]
+[Et ta discussion avec Camille ;) Dans ce cas, c'est bien de la mentionner ou de citer une de ses publications, ne serait-ce que son article museonum. Oui c'est vrai!! 
+
+Sinon c'est très bien, le projet me semble grandement réalisable. Pense juste à problématiser ta recherche plus explicitement. Identifie les soucis qui peuvent être posés par la classification de la perf. Quelles sont tes hypothèses. Pourquoi t'intéresses-tu à la classification de la perf ? Si tu penses que la classification peut poser problème dis clairement que tu veux voir comment les musées au Quebec s'en sortent face à cette difficulté. ]
 
 28/10/2026 Angie Charlebois
 
@@ -808,11 +808,11 @@ modelde de dnnes sur les exposition
 
 ### Lise Gueibe
 
-    J’ai décidé de choisir un autre sujet et d’étudier le portail en ligne « Belgian Art Links and Tools » (BALaT), géré par l’Institut Royal du Patrimoine Artistique (IRPA) de Belgique et que j'ai longuement utilisé tout au long de mon bac. Pionnier européen, ce dernier se charge de la documentation, de l’étude, de la conservation, de la préservation et de la restauration du patrimoine artistique belge. Pour atteindre ces objectifs, l’IRPA dresse un inventaire numérique des œuvres belges et propose quatre bases de données : une photothèque en ligne ; le « Dictionnaire des peintres belges du XIVe siècle à nos jours : depuis les premiers maîtres des anciens Pays-Bas méridionaux et de la Principauté de Liège jusqu’aux artistes contemporains » ; un répertoire des personnes et institutions ; une bibliothèque numérisée contenant thèses, publications, répertoires, etc.
-    
-    La littérature disponible sur le sujet provient majoritairement du site Internet de l’Institut ; celui-ci publie régulièrement des articles d’actualité, ainsi qu’une revue spécialisée, une collection et trois séries thématiques. En dehors de ces publications, il existe quelques billets de blog décrivant BALaT, mais qui datent d’avant la refonte complète de l’interface du site. De manière générale, en dehors du site de l’IRPA, il n’y a pas vraiment d’écrits sur la base de données en elle-même ; ils traitent plutôt de l’histoire et des origines de l’Institut.
-    
-    J’aimerais analyser la base de données BALaT et les différentes possibilités et métadonnées qu’elle propose, avec ses forces et ses faiblesses, plus précisément dans le cadre de recherches entreprises par un tiers. Eventuellement, une comparaison avec une autre base de données ou catalogue de musée (comme celui du Nationalmusée) pourrait être envisagé.
+J’ai décidé de choisir un autre sujet et d’étudier le portail en ligne « Belgian Art Links and Tools » (BALaT), géré par l’Institut Royal du Patrimoine Artistique (IRPA) de Belgique et que j'ai longuement utilisé tout au long de mon bac. Pionnier européen, ce dernier se charge de la documentation, de l’étude, de la conservation, de la préservation et de la restauration du patrimoine artistique belge. Pour atteindre ces objectifs, l’IRPA dresse un inventaire numérique des œuvres belges et propose quatre bases de données : une photothèque en ligne ; le « Dictionnaire des peintres belges du XIVe siècle à nos jours : depuis les premiers maîtres des anciens Pays-Bas méridionaux et de la Principauté de Liège jusqu’aux artistes contemporains » ; un répertoire des personnes et institutions ; une bibliothèque numérisée contenant thèses, publications, répertoires, etc.
+
+La littérature disponible sur le sujet provient majoritairement du site Internet de l’Institut ; celui-ci publie régulièrement des articles d’actualité, ainsi qu’une revue spécialisée, une collection et trois séries thématiques. En dehors de ces publications, il existe quelques billets de blog décrivant BALaT, mais qui datent d’avant la refonte complète de l’interface du site. De manière générale, en dehors du site de l’IRPA, il n’y a pas vraiment d’écrits sur la base de données en elle-même ; ils traitent plutôt de l’histoire et des origines de l’Institut.
+
+J’aimerais analyser la base de données BALaT et les différentes possibilités et métadonnées qu’elle propose, avec ses forces et ses faiblesses, plus précisément dans le cadre de recherches entreprises par un tiers. Eventuellement, une comparaison avec une autre base de données ou catalogue de musée (comme celui du Nationalmusée) pourrait être envisagé.
 
 [Ce que tu présentes semble être l'exercice du TP03. Je n'identifie pas la problématique mais si tu apportes des hypothèses et trouve un sujet au delà de commenter le catalogue ok]
 
@@ -820,29 +820,29 @@ modelde de dnnes sur les exposition
 ### Alejandro Cámez
 
 
-    Dans une optique de décolonisation des collections et de la médiation culturellement responsable, ma recherche portera sur les enjeux de la classification des données relatives aux jouets mexicains dans les musées à l'étranger. Le jouet en tant qu'objet de collection ouvre des pistes de réflexion entre la création destinée à la jeunesse et les dialogues interculturels au musée, deux sujets qui rejoignent mes intérêts dans le domaine culturel/muséal. 
+Dans une optique de décolonisation des collections et de la médiation culturellement responsable, ma recherche portera sur les enjeux de la classification des données relatives aux jouets mexicains dans les musées à l'étranger. Le jouet en tant qu'objet de collection ouvre des pistes de réflexion entre la création destinée à la jeunesse et les dialogues interculturels au musée, deux sujets qui rejoignent mes intérêts dans le domaine culturel/muséal. 
 
 
-    Pour construire le cadre théorique de ma recherche, j’ai choisi de m’appuyer dans un premier temps sur l’ouvrage de Hannah Turner (2020), « Cataloguing Culture: Legacies of Colonialism in Museum Documentation ».
+Pour construire le cadre théorique de ma recherche, j’ai choisi de m’appuyer dans un premier temps sur l’ouvrage de Hannah Turner (2020), « Cataloguing Culture: Legacies of Colonialism in Museum Documentation ».
 
 
-    Turner, H. (2020). Cataloguing culture: Legacies of colonialism in museum documentation. UBC Press. 
+Turner, H. (2020). Cataloguing culture: Legacies of colonialism in museum documentation. UBC Press. 
 
 
-    En cherchant des exemples, j'ai trouvé dans les collections du Royal Ontario Museum, un sifflet produit à Mexico dans les années 1970. Il s'agit donc d'un objet provenant d'une ville déjà industrialisée. Pourtant, il est classifié comme « Indigenous Latin America », deux fois. Est-ce que la provenance mexicaine suffit-elle à expliquer l'attribution de l'objet à une catégorie autochtone ? 
+En cherchant des exemples, j'ai trouvé dans les collections du Royal Ontario Museum, un sifflet produit à Mexico dans les années 1970. Il s'agit donc d'un objet provenant d'une ville déjà industrialisée. Pourtant, il est classifié comme « Indigenous Latin America », deux fois. Est-ce que la provenance mexicaine suffit-elle à expliquer l'attribution de l'objet à une catégorie autochtone ? 
 
 
-    On retrouvera le même questionnement avec des chaussures miniatures provenant de l’État de Guanajuato, présentées dans une boîte avec d’illustrations imprimées et une inscription de classification apposée par le fabricant, ce qui donne l'impression que l'objet aurait été produit dans une petite usine plutôt que dans un atelier entièrement artisanal. Encore, la mention « Indigenous Latin America » est dans le catalogue. Une production industrielle n'exclut pas une appartenance culturelle, mais il convient d'interroger la manière dont les identités autochtones sont renforcées comme une représentation de la seule identité d'une nation.
+On retrouvera le même questionnement avec des chaussures miniatures provenant de l’État de Guanajuato, présentées dans une boîte avec d’illustrations imprimées et une inscription de classification apposée par le fabricant, ce qui donne l'impression que l'objet aurait été produit dans une petite usine plutôt que dans un atelier entièrement artisanal. Encore, la mention « Indigenous Latin America » est dans le catalogue. Une production industrielle n'exclut pas une appartenance culturelle, mais il convient d'interroger la manière dont les identités autochtones sont renforcées comme une représentation de la seule identité d'une nation.
 
 
-    Sifflet : https://collections.rom.on.ca/objects/2473099/whirling-pinwheel-whistle?ctx=3a59a17aa2bdb351a9657bea8d1d4971587f6b99&idx=71
-    
-    Chaussures miniatures : 
-    
-    https://collections.rom.on.ca/objects/2473581/miniature-shoes-with-box?ctx=ed211f5ad3a5aebf1b0edb70c623f4509e93ff20&idx=45
+Sifflet : https://collections.rom.on.ca/objects/2473099/whirling-pinwheel-whistle?ctx=3a59a17aa2bdb351a9657bea8d1d4971587f6b99&idx=71
+
+Chaussures miniatures : 
+
+https://collections.rom.on.ca/objects/2473581/miniature-shoes-with-box?ctx=ed211f5ad3a5aebf1b0edb70c623f4509e93ff20&idx=45
 
 
-    On peut trouver des jouets mexicains dans différents types de musées: soit d'art, d'histoire, de sciences. Je vise à rédiger une analyse des différentes collections (leurs points communs et leurs différences dans la classification), guidée par un cadre théorique portant sur les bonnes pratiques documentaires des objets originaires des autres cultures, tout en montrant le jouet mexicain comme un objet patrimonial et un document socioculturel très particulier.  Je souhaite également que mes réflexions soient transposables à la médiation et au catalogage d’objets provenant de différentes cultures.
+On peut trouver des jouets mexicains dans différents types de musées: soit d'art, d'histoire, de sciences. Je vise à rédiger une analyse des différentes collections (leurs points communs et leurs différences dans la classification), guidée par un cadre théorique portant sur les bonnes pratiques documentaires des objets originaires des autres cultures, tout en montrant le jouet mexicain comme un objet patrimonial et un document socioculturel très particulier.  Je souhaite également que mes réflexions soient transposables à la médiation et au catalogage d’objets provenant de différentes cultures.
 
 
 [sujet très intéressant et actuel, formule la problématique ou au moins tes hypothèses pour cadrer et pas trop en faire.]
@@ -949,7 +949,7 @@ J'aimerais faire l'exercice moi-même et comparé plusieurs sources d'IA (ChatGP
 UPDATE : Finalement, j’aimerais revenir sur le cas de MUSEO avec le Musée canadien de l’histoire. MUSEO est le système d‘intelligence artificielle entraîner par le musée. Il est utilisé dans l’exposition permanente pour « enhance » (améliorer / rehausser) l’expérience visiteur lors de la visite des expositions.  [PROBLÉMATIQUE À VENIR]. Je dois y réfléchir après la discussion eu avant le cours le 26 octobre 2026 ].
 
 UPDATE 2 :
-    Est-ce que l'utilisation d'un guide virtuel comme MUSEO améliore l’expérience du visiteur en salle d’exposition?
+Est-ce que l'utilisation d'un guide virtuel comme MUSEO améliore l’expérience du visiteur en salle d’exposition?
 
 
 ### Sandrine Daignault
@@ -963,11 +963,11 @@ Bref, j'aimerais voir de quelles manières les outils de collections biologiques
 
 Voici des ressources que j'ai trouvé, pour le moment, qui semblent pertinentes : 
 
-    Todd, M., Morales Furuta, S., Reviejo, A., Weber, A., & Stork, L., Zenodo, « Herbaria Heritage: Visualising Colonial Bias in Natural History Collections », Digital Humanities Benelux Journal, 4 décembre 2025, Vol. 7, 103-121. https://zenodo.org/records/11440741. 
-    
-    Colonial Collections Datahub : https://app.colonialcollections.nl/en.
-    
-    Digital Benin : https://digitalbenin.org/
+Todd, M., Morales Furuta, S., Reviejo, A., Weber, A., & Stork, L., Zenodo, « Herbaria Heritage: Visualising Colonial Bias in Natural History Collections », Digital Humanities Benelux Journal, 4 décembre 2025, Vol. 7, 103-121. https://zenodo.org/records/11440741. 
+
+Colonial Collections Datahub : https://app.colonialcollections.nl/en.
+
+Digital Benin : https://digitalbenin.org/
 
 [Oui, je pense qu'au dela de la visualisation des données cartographiques tu peux introduire l'importance de pouvoir télécharger les données structurées. Le cours dédié te donnera plus de contexte pour cette partie. Les musées ethno ont plus souvent de la carto que les collections muséales d'art. Je pense que c'est très interessant d'inclure les "musées d'art" avec les questions de provenance actuelles]
 
@@ -1005,14 +1005,14 @@ https://udemontreal-my.sharepoint.com/:x:/r/personal/annabelle_fleury_umontreal_
 
 J'ai commencé par regarder la norme Spectrum sur le web. J'ai décidé de faire 4 feuilles : 01 - identification, 02 - Emplacement, 03 - Rapport de condition et Listes d'autorité. Je possède beaucoup de connaissances sur Excel dont la création de liste déroulante et de macros, ce qui m'a grandement aidé à faire ce type d'exercice (appris pendant mes études à la Techniques en muséologie). Pour les macros, j'ai recherché les codes que j'avais besoin sur le web (tutoriel, principalement) et j'ai aussi eu l'aide d'un ami informaticien. 
 
-    *Même si la norme Spectrum ne mentionne pas d'image ou de prise photographique de l'objet, je crois qu'il est important d'insérer une photographie en début de dossier pour pouvoir bien visualiser l'objet et pour faire un bon catalogage. J'ai inséré la photographie pour les 3 feuilles.
+*Même si la norme Spectrum ne mentionne pas d'image ou de prise photographique de l'objet, je crois qu'il est important d'insérer une photographie en début de dossier pour pouvoir bien visualiser l'objet et pour faire un bon catalogage. J'ai inséré la photographie pour les 3 feuilles.
 
 
 Pour la première feuille, 01 - identification, j'ai ajouté des colonnes avec des catégories classiques : numéro d'identification, nom de l'objet, le nombre d'objets, la description, le donateur, la méthode d'acquisition, la date de production, le fabricant, l'origine, l'artiste/artisan, le titre, les couleurs, les dimensions, les inscriptions, les matériaux, les techniques, le commentaire et le catalogueur.euse. Pour la documentation de mon objet, ça s'est bien déroulé. 
 
-    - Lorsque j'ai voulu ajouté les deux objets trouvé au National Railway Museum et au Musée de la civilisation, j'ai découvert que je pouvais ajouté une colonne particulière : « expositions ». Les deux musées mentionnent lorsqu'un objet est présenté lors d'une exposition. Je trouvais ça très intéressant!
-    
-    - J'ai aussi ajouté les catégories proposées par la SMQ et le réseau Info-Muse. Étonnement, cela concordait aussi avec les catégories proposées par le National Railway Museum (ce n'était pas pareil, mais très similaire, dans les mêmes eaux). Cela m'a aussi permis de créer une liste d'autorité : chose fortement recommandé par Spectrum.
+- Lorsque j'ai voulu ajouté les deux objets trouvé au National Railway Museum et au Musée de la civilisation, j'ai découvert que je pouvais ajouté une colonne particulière : « expositions ». Les deux musées mentionnent lorsqu'un objet est présenté lors d'une exposition. Je trouvais ça très intéressant!
+
+- J'ai aussi ajouté les catégories proposées par la SMQ et le réseau Info-Muse. Étonnement, cela concordait aussi avec les catégories proposées par le National Railway Museum (ce n'était pas pareil, mais très similaire, dans les mêmes eaux). Cela m'a aussi permis de créer une liste d'autorité : chose fortement recommandé par Spectrum.
 
 
 Pour la deuxième feuille, 02 - Emplacement, j'ai répété les colonnes photographie, numéro d'acquisition et nom de l'objet. La raison était pour éviter de toujours retourner dans la première feuille pour avoir ce genre d'information. J'ai gardé l'identification sommaire. Ensuite, j'ai ajouté les colonnes pays, ville, institution, réserves/salles, date, anciens emplacements, commentaire et catalogueur.euse.
@@ -1072,11 +1072,11 @@ Je me suis inspirée de catégories utilisées par le McCord et le V&A Museum, m
 ## 2026-10-12 - TP04
 Consignes :
 
-    Faire la description de votre objet de la collection MSL en vous appuyant sur la procédure Spectrum pour le catalogage.
-    
-    Comparez les descripteurs du catalogue en ligne que vous avez étudié (TP03) avec les catégories d'informations proposées par Spectrum. Identifiez les correspondances et les différences.
-    
-    Évaluer la qualité des métadonnées : Trouvez des notices d'objets similaires dans une collection publique et analysez la qualité de la description que vous avez produite. Prenez des notes sur ces objets pour plus tard.
+Faire la description de votre objet de la collection MSL en vous appuyant sur la procédure Spectrum pour le catalogage.
+
+Comparez les descripteurs du catalogue en ligne que vous avez étudié (TP03) avec les catégories d'informations proposées par Spectrum. Identifiez les correspondances et les différences.
+
+Évaluer la qualité des métadonnées : Trouvez des notices d'objets similaires dans une collection publique et analysez la qualité de la description que vous avez produite. Prenez des notes sur ces objets pour plus tard.
 
 
 ### Anne-Sophie Desbiens
@@ -1316,7 +1316,7 @@ Enregistrement de l'objet :
 Numéro d’objet unique : 2026.6.1
 Nom de l’objet : Carnet de notes
 
-    ** (question : dans la rubrique Nom de l'objet de SPECTRUM, il est écrit : « Définition : Description de la forme, de la fonction ou du type d’objet. » N'est-ce pas justement plus de la description qu'un nom d'objet?)
+** (question : dans la rubrique Nom de l'objet de SPECTRUM, il est écrit : « Définition : Description de la forme, de la fonction ou du type d’objet. » N'est-ce pas justement plus de la description qu'un nom d'objet?)
 
 Courte description : Carnet de notes de format de poche avec reliure brochée et couverture en papier cartonné, c. 1980.
 Emplacement actuel : 
@@ -1326,21 +1326,21 @@ Information sur l’identification des objets
 Couleur : Noir, blanc
 Contenu : 
 
-    Date : c. 1980-1990
-    
-    Lieu : Floride, France, Québec
-    
-    Peuple : Québécois
-    
-    Description : Ce carnet révèle le quotidien d’un groupe de Québécois lors de différents voyages (Floride, en France et au Québec). Il contient des listes d'épicerie, des comptes-rendus quotidiens et des notes sur le prix des items selon les différents pays.
+Date : c. 1980-1990
+
+Lieu : Floride, France, Québec
+
+Peuple : Québécois
+
+Description : Ce carnet révèle le quotidien d’un groupe de Québécois lors de différents voyages (Floride, en France et au Québec). Il contient des listes d'épicerie, des comptes-rendus quotidiens et des notes sur le prix des items selon les différents pays.
 
 Dimension : 
 
-    L : 3 1/4"
-    
-    H : 5"
-    
-    P : 1/4"
+L : 3 1/4"
+
+H : 5"
+
+P : 1/4"
 
 Matériau : Papier, papier cartonné, agrafes 
 Description physique : Le coin inférieur droit de la couverture est déchiré. Les pages du centre ont des taches brunâtres au niveau de la reliure. 
@@ -1376,16 +1376,16 @@ Commentaire : Il y a un trou sous le leurre. Il s’agit probablement d’une pa
 Couleur : gris; brun; vert; crème; noir; jaune-orangé. 
 Dimensions : 5 ¼ x 31 x 6 po (H x L x l).
 Contenu de l'inscription : 
-·       006 PASSED
-·       Bien durables; Articles déco; X04100304200724000485; $4.85 chaque.
+·  006 PASSED
+·  Bien durables; Articles déco; X04100304200724000485; $4.85 chaque.
 Description de l’inscription : Il existe deux inscriptions. La première est un sault directement apposé au leurre, qui semble être un contrôle de qualité. La seconde est une étiquette de prix. 
 Matériau : résine; peinture. 
 Description physique : 
-·       Il manque de la peinture à quelques endroits. 
-·       Une partie de la queue du côté gauche est abîmée.
-·       Le bout de l’aile droite est abîmé.
-·       L’étiquette d’achat est sous l’objet.
-·       Il y a un trou intentionnel en-dessous du leurre.
+·  Il manque de la peinture à quelques endroits. 
+·  Une partie de la queue du côté gauche est abîmée.
+·  Le bout de l’aile droite est abîmé.
+·  L’étiquette d’achat est sous l’objet.
+·  Il y a un trou intentionnel en-dessous du leurre.
 Information sur l'historique et les associations de l'objet
 Activité associée : Chasse; décoration.
 Organisation associée : entreprise Renaissance (achat)
@@ -1421,12 +1421,12 @@ Contenu lieu : États Unis.
 Numéro d'édition : 1
 ISBN : 0-8109-1187-6
 
-    Note Alejandro : J'ai décidé d'inclure l'ISBN, car Spectrum propose l'utilisation d'autres numéros de référence, et l'ISBN permet d'identifier une édition précise du livre.
+Note Alejandro : J'ai décidé d'inclure l'ISBN, car Spectrum propose l'utilisation d'autres numéros de référence, et l'ISBN permet d'identifier une édition précise du livre.
 
 Dimension : 
-    Hauteur : 31 cm
-    Largeur : 24 cm
-    Épaisseur : 3 cm
+Hauteur : 31 cm
+Largeur : 24 cm
+Épaisseur : 3 cm
 
 Partie mesurée : livre fermé avec la jaquette.
 Valeur de dimension : 31 x 24 x 3
@@ -1436,13 +1436,13 @@ Matériaux : papier ; carton ; toile.
 Inscription : « Advertising in America: The First 200 Years » Charles Goodrum, Helen Dalrymple
 Langue de l'inscription : Anglais 
 Description, physique : livre illustré en noir et blanc et couleur, grand format, couverture rigide, recouverte de toile bleue et avec une jaquette en papier. Lettrage doré au dos.
-    
+
 Personne de production de l'objet : Charles Goodrum ; Helen Dalrymple - auteurs.
 Organisation de production de l’objet : H. N. Abrams — éditeur.
 Date de production de l’objet : 1990.
 Lieu de production de l'objet : New York, États Unis.
 Technique : Impression.
-    
+
 Information sur l’historique et les associations à l’objet
 Activité associée : lecture, consultation. 
 Personne associée : Gerrald - nom de famille inconnu.
@@ -1522,102 +1522,102 @@ Le Musée de textiles du Canada ne donne pas Informations sur l'Historique ou l'
 ## 2026-10-05 - TP03
 Consignes :
 
-    Choisir une collection de référence en fonction de vos centres d'intérêts.
-    
-    Sélectionner un catalogue en ligne de musée comparable offrant de riches fonctionnalités de recherche (aidez-vous de la liste d'exemples sur le pad).
-    
-    Analyser le catalogue en vous appuyant sur les lectures du cours.  
-    
-    Précisez votre choix de catalogue et l'url.
-    
-    Partagez vos notes d'analyse. Pistes de réflexion (questions non exhaustives) : 
-    
-    Comment le catalogue en ligne s'intègre-t-il au site du musée ?
-    
-    Quels sont les critères de recherche offerts et les points d'accès proposés ?
-    
-    Quelles informations relatives aux artefacts sont-elles proposées aux utilisateurs ? Sont-elles les memes pour différents objets ?
-    
-    Quels sont les rebonds et les liens proposés entre les artefacts ?
-    
-    Comment les contenus sont-ils éditorialisés, quels enrichissements sont proposés ?
-    
-    Quel discours sur la collection semble proposer le musée avec ce catalogue en ligne ?
+Choisir une collection de référence en fonction de vos centres d'intérêts.
+
+Sélectionner un catalogue en ligne de musée comparable offrant de riches fonctionnalités de recherche (aidez-vous de la liste d'exemples sur le pad).
+
+Analyser le catalogue en vous appuyant sur les lectures du cours.  
+
+Précisez votre choix de catalogue et l'url.
+
+Partagez vos notes d'analyse. Pistes de réflexion (questions non exhaustives) : 
+
+Comment le catalogue en ligne s'intègre-t-il au site du musée ?
+
+Quels sont les critères de recherche offerts et les points d'accès proposés ?
+
+Quelles informations relatives aux artefacts sont-elles proposées aux utilisateurs ? Sont-elles les memes pour différents objets ?
+
+Quels sont les rebonds et les liens proposés entre les artefacts ?
+
+Comment les contenus sont-ils éditorialisés, quels enrichissements sont proposés ?
+
+Quel discours sur la collection semble proposer le musée avec ce catalogue en ligne ?
 
 Exemples de catalogues en ligne:
 Musées d'art :
 
-    The Metropolitan Museum of Art : https://www.metmuseum.org
-    
-    SFMOMA : https://www.sfmoma.org
-    
-    Rijksmuseum : https://www.rijksmuseum.nl
-    
-    Tate : https://www.tate.org.uk
-    
-    Museo del Prado : https://www.museodelprado.es
-    
-    Art Gallery of Ontario : https://ago.ca
-    
-    Centre Georges Pompidou : https://www.centrepompidou.fr
-    
-    Staatliche Kunstsammlungen Dresden : https://www.skd.museum
-    
-    Nationalmuseum (Suède) : https://www.nationalmuseum.se
-    
-    SMK (Copenhague) : https://www.smk.dk
-    
-    The Cleveland Museum of Art : https://www.clevelandart.org
-    
-    Belvedere (Vienne) : https://www.belvedere.at
-    
-    Musée national des beaux-arts du Québec (MNBAQ) : https://www.mnbaq.org
+The Metropolitan Museum of Art : https://www.metmuseum.org
+
+SFMOMA : https://www.sfmoma.org
+
+Rijksmuseum : https://www.rijksmuseum.nl
+
+Tate : https://www.tate.org.uk
+
+Museo del Prado : https://www.museodelprado.es
+
+Art Gallery of Ontario : https://ago.ca
+
+Centre Georges Pompidou : https://www.centrepompidou.fr
+
+Staatliche Kunstsammlungen Dresden : https://www.skd.museum
+
+Nationalmuseum (Suède) : https://www.nationalmuseum.se
+
+SMK (Copenhague) : https://www.smk.dk
+
+The Cleveland Museum of Art : https://www.clevelandart.org
+
+Belvedere (Vienne) : https://www.belvedere.at
+
+Musée national des beaux-arts du Québec (MNBAQ) : https://www.mnbaq.org
 
 Musées de civilisation ou d'histoire :
 
-    Musée de la civilisation (MCQ) : https://www.mcq.org
-    
-    Musée canadien de l'histoire : https://www.museedelhistoire.ca/
-    
-    Musée des civilisations de l'Europe et de la Méditerranée (MuCEM) : https://www.mucem.org
-    
-    Musée du quai Branly : http://www.quaibranly.fr
-    
-    Musée des Confluences : https://www.museedesconfluences.fr
-    
-    Musée McCord : https://www.musee-mccord.qc.ca
-    
-    Victoria and Albert Museum (V&A) : https://www.vam.ac.uk
-    
-    Te Papa (Nouvelle-Zélande) : https://www.tepapa.govt.nz
-    
-    MOA (Museum of Anthropology, UBC) : https://collection-online.moa.ubc.ca/home
+Musée de la civilisation (MCQ) : https://www.mcq.org
+
+Musée canadien de l'histoire : https://www.museedelhistoire.ca/
+
+Musée des civilisations de l'Europe et de la Méditerranée (MuCEM) : https://www.mucem.org
+
+Musée du quai Branly : http://www.quaibranly.fr
+
+Musée des Confluences : https://www.museedesconfluences.fr
+
+Musée McCord : https://www.musee-mccord.qc.ca
+
+Victoria and Albert Museum (V&A) : https://www.vam.ac.uk
+
+Te Papa (Nouvelle-Zélande) : https://www.tepapa.govt.nz
+
+MOA (Museum of Anthropology, UBC) : https://collection-online.moa.ubc.ca/home
 
 Musées de sciences :
 
-    Musées des sciences et de la technologie du Canada (Ingenium) : https://ingeniumcanada.org
-    
-    Royal Ontario Museum : https://www.rom.on.ca
-    
-    Science Museum (UK) : https://www.sciencemuseum.org.uk
-    
-    Field Museum : https://www.fieldmuseum.org
-    
-    National Museum of Natural History (US) : https://naturalhistory.si.edu
-    
-    Museums Victoria : https://museumsvictoria.com.au
-    
-    Natural History Museum (UK) : https://www.nhm.ac.uk
-    
-    Muséum national d'Histoire naturelle (MNHN) : https://www.mnhn.fr
-    
-    Museum für Kunst und Gewerbe (MFK) - Communication : https://mfk.rechercheonline.ch/fr/about#info
+Musées des sciences et de la technologie du Canada (Ingenium) : https://ingeniumcanada.org
+
+Royal Ontario Museum : https://www.rom.on.ca
+
+Science Museum (UK) : https://www.sciencemuseum.org.uk
+
+Field Museum : https://www.fieldmuseum.org
+
+National Museum of Natural History (US) : https://naturalhistory.si.edu
+
+Museums Victoria : https://museumsvictoria.com.au
+
+Natural History Museum (UK) : https://www.nhm.ac.uk
+
+Muséum national d'Histoire naturelle (MNHN) : https://www.mnhn.fr
+
+Museum für Kunst und Gewerbe (MFK) - Communication : https://mfk.rechercheonline.ch/fr/about#info
 
 Archives :
 
-    Kunsthalle Bern (archives) : https://archiv.kunsthalle-bern.ch/en/search?people_all=5242
-    
-    Collection Stiftung Sitterwerk : https://www.sitterwerk.ch et https://sitterwerk-katalog.ch
+Kunsthalle Bern (archives) : https://archiv.kunsthalle-bern.ch/en/search?people_all=5242
+
+Collection Stiftung Sitterwerk : https://www.sitterwerk.ch et https://sitterwerk-katalog.ch
 
 ### Annabelle Fleury
 National Railway Museum, York, Angleterre.
@@ -1637,9 +1637,9 @@ Pour accéder au catalogue en ligne :
 Pour la recherche d’objet dans toutes les collections de tous les musées du Science Museum Group.
 --> On peut commencer une recherche à partir de l’étape 5, mais la recherche mène dans toutes les collections de tous les musées mentionnés ci-haut. Par exemple, avec une recherche du mot « Locomotive » :
 1) L’onglet « All » affiche 12,651 résultats. Ceci inclue des objets (objects), des documents d’archives (documents) et des personnes (people).
-o    People affiche 437 résultats
-o    Objects affiche 7,447 résultats
-o    Documents affiche 4,767 résultats
+oPeople affiche 437 résultats
+oObjects affiche 7,447 résultats
+oDocuments affiche 4,767 résultats
 2) Cliquer sur le premier résultat « Rocket locomotive 1829 »
 3) La page affiche plusieurs informations relatives à la locomotive Rocket. Il y a la date de fabrication, l’endroit de fabrication, le designer, le fabricant, plusieurs photographies de l’objet dont des photographies en exposition, des photographies documentaires, des photographies de détails ainsi que des numérisations d’archives de la locomotive. De plus, il y a une description de l’objet, une vidéo contenant une modélisation 3D de la locomotive ainsi que des informations complémentaires accompagné d’images d’archives. Aussi, il y a des détails de documentation muséologique comme la catégorie de l’objet, le numéro d’acquisition, les matériaux, les mesures, le type de locomotive et des crédits. Justement, certaines de ses informations sont des liens hypertextes qui mènent vers une autre page de recherche contenant d’autres résultats d’objets : par exemple, si on clique sur « steam engine », le liens hypertexte nous amène sur la page de recherche de la collection, mais nous donne déjà les résultats concernant les locomotives à vapeur dans les collections. Il est aussi mentionné à quel endroit l’objet est exposé, d’autres liens pertinents concernant l’objet ainsi que des articles reliés à la locomotive. Finalement, à la fin de la page, il y a des propositions d’objets qui possède un lien avec la locomotive pour approfondir la recherche initiale.
 
@@ -1701,7 +1701,7 @@ INVENTAIRE:
 14- identité du donateur, testateur ou vendeur (du déposant)
 
 Comment le catalogue en ligne s'intègre-t-il au site du musée?:
-    Le site semble avoir été conçu presqu'exclusivement pour lui. Un indice: le fait que le musée dit ne pas pouvoir exposer beaucoup de ses acquisitions alors qu'en ligne, elles sont accessibles 24/7. 
+Le site semble avoir été conçu presqu'exclusivement pour lui. Un indice: le fait que le musée dit ne pas pouvoir exposer beaucoup de ses acquisitions alors qu'en ligne, elles sont accessibles 24/7. 
 Les critères de recherche ont été proposés dans l'onglet filtre.
 Est-ce que les informations relatives à chaque item sont les mêmes? 
 Il semblerait que oui car, après avoir été voir un cadre, je vais voir un sac et les mêmes catégories sont présentes.
@@ -1753,35 +1753,35 @@ Et, finalement, on peut découvrir les objets présentement exposés dans les di
 
 Les informations disponibles pour chaque objets sont particulièrement exhaustives. On y retrouve de l’information sur le type d’objet, le créateur/fabricant et le matériel utilisé en relation avec le contexte de production de son créateur/fabricant. On retrouve également une section intitulée « dive deeper », comprenant un article sur un aspect historique de l’objet. Puis, une tonne d’information est ensuite listée, allant comme suit : 
 
-    catégories
-    
-    type d’objet
-    
-    matériel et technique
-    
-    brève description
-    
-    description physique
-    
-    dimensions
-    
-    marques et inscriptions
-    
-    « gallery labels »
-    
-    ligne de crédit
-    
-    historique de l’objet
-    
-    sujets dépeints
-    
-    références bibliographiques
-    
-    collection
-    
-    numéro d’accession
-    
-    une section intitulée « About this object record » accompagnée de l’option de suggérer une amélioration, qui peut s’apparenter à deux des initiatives que Erin Canning propose dans son texte (ethical cataloguing statements et work with others (external)). L’énoncé est un peu générique, mais on sent que l’intention est là.
+catégories
+
+type d’objet
+
+matériel et technique
+
+brève description
+
+description physique
+
+dimensions
+
+marques et inscriptions
+
+« gallery labels »
+
+ligne de crédit
+
+historique de l’objet
+
+sujets dépeints
+
+références bibliographiques
+
+collection
+
+numéro d’accession
+
+une section intitulée « About this object record » accompagnée de l’option de suggérer une amélioration, qui peut s’apparenter à deux des initiatives que Erin Canning propose dans son texte (ethical cataloguing statements et work with others (external)). L’énoncé est un peu générique, mais on sent que l’intention est là.
 
 
 Si l’on souhaite parcourir la collection en passant d’un objet à un autre, il est possible de le faire à l’aide des liens contenus dans les informations relatives à un objet. Ils sont particulièrement nombreux et comprennent presque toutes les métadonnées comprises dans les informations relatives à la catégorie à laquelle appartient l’objet, le type d’objet, aux matériaux et techniques, aux sujets dépeints, à la collection à laquelle elle appartient. À la fin de chaque fiche d’objet, une section « you may also like » est proposée avec différents objets s’y rattachant.
@@ -1795,63 +1795,63 @@ ah non... C'est un exemple qui a été donné en classe? Je ne me rappelle pas..
 Textilmuseum St.Gallen
 https://collection.textilmuseum.ch/
 
-    Le catalogue n’est pas intégré au site principal ; il est hébergé sur un sous-domaine distinct (préfixe « collection » ; c’est probablement une plateforme tierce). Le menu de navigation du musée (expositions, visites, etc.) n’est plus visible sur cette page, et il n’est pas possible de revenir à la page d’accueil du musée en cliquant sur le logo dans le coin supérieur gauche.
-    
-    La présentation des résultats de recherche est conviviale : les tuiles avec les photos sont belles ; l’utilisateur est encouragé à découvrir les objets.
-    
-    La barre de recherche est complétée par des filtres : date, catégorie, lieu, matériel, technique et période
-    
-    Les valeurs du filtre « période » sont classées alphabétiquement, où « 1ère moitié du 18e s. » précède « 1er quart du 14e s. ». Ces divisions ne sont pas hiérarchiques : les objets étiquetés « 16e s. » sont distincts de ceux des subdivisions du siècle (ex. « 1ère moitié du 16e s. »). Choisir le siècle n’inclut donc pas les objets des moitiés ou des quarts, et il faut cocher chaque valeur séparément pour couvrir tout un siècle.
-    
-    Les périodes ne correspondent pas aux dates affichées dans le datepicker (seul 1896 - 1982 est disponible comme option, et elle n’est pas restreinte (ni agrandie) lorsqu’on sélectionne une ou plusieurs périodes). En fait, le datepicker ne renvoie aucun résultat lorsqu’on le régule…
-    
-    Les résultats sont triés par titre en ordre alphabétique, mais on peut également les trier par date, par « Participants » et par catégorie.
-    
-    La fiche de chaque objet inclut :
-    
-    « + » indique que ces champs comportent des hyperliens vers une recherche par cet élément. L’enrichissement des contenus se fait principalement par ces hyperliens
-    
-    des images de l’objet (l’interface permet de les télécharger !)
-    
-    les personnes associées+
-    
-    J’ai remarqué plusieurs relations possibles : Collecteur*euse, Couturier*ère, Fabricant*e, Créateur*ice / Designer, Porteur*euse / Utilisateur*trice. Cette précision enrichit la compréhension du contexte de création et de la vie de l'objet.
-    
-    période+, date
-    
-    localisation (continent > région > pays)+
-    
-    numéro d'inventaire
-    
-    matériel/technique
-    
-    dimensions
-    
-    catégorie+
-    
-    description
-    
-    Objets associés+
-    
-    Participants+ (redouble les infos des personnes associées)
-    
-    <division « afficher plus d’infos »>
-    
-    matériel+
-    
-    technique+
-    
-    Matériel et technique sont présentés deux fois sur la fiche, mais seulement la version qui est cachée sous la division avec le bouton « plus d’infos » est indexée et comporte les hyperliens.
-    
-    La page  principale affiche une recherche des objets, mais on peut également chercher dans une liste de « personnes ». Ces « personnes » incluent les personnes morales, telles que les maisons de couture et les manufacturiers.
-    
-    Les entrées de cette liste incluent : date, localisation, nationalité et biographie (description) en texte brut, puis les objets et « participants » (c-à-d personnes ; le vocabulaire n’est pas consistant) associés. Les relations entre ces personnes ne sont pas précisées. Les relations avec les objets sont seulement précisées dans la fiche de l’objet.
-    
-    L’utilisateur se fait ses propres parcours ; je n’ai pas remarqué de catégories thématiques, liées aux expositions, etc. La collection est présentée comme un corpus à explorer.
-    
-    Chaque fiche d’objet comprend un bouton permettant de contacter le musée pour poser des questions ou faire des commentaires sur l’objet. Ce n'est pas le cas pour les fiches des personnes.
-    
-    Il y a un fort accent sur la provenance de l’objet par les liens entre les objets et les personnes associées (les objets sont ainsi présentés comme étant les produits des relations sociales). Par contre, il y a moins d’emphase sur la création et la technique. Je pense que des fiches descriptives pour les techniques pourraient être un ajout intéressant à la découverte de la collection.
+Le catalogue n’est pas intégré au site principal ; il est hébergé sur un sous-domaine distinct (préfixe « collection » ; c’est probablement une plateforme tierce). Le menu de navigation du musée (expositions, visites, etc.) n’est plus visible sur cette page, et il n’est pas possible de revenir à la page d’accueil du musée en cliquant sur le logo dans le coin supérieur gauche.
+
+La présentation des résultats de recherche est conviviale : les tuiles avec les photos sont belles ; l’utilisateur est encouragé à découvrir les objets.
+
+La barre de recherche est complétée par des filtres : date, catégorie, lieu, matériel, technique et période
+
+Les valeurs du filtre « période » sont classées alphabétiquement, où « 1ère moitié du 18e s. » précède « 1er quart du 14e s. ». Ces divisions ne sont pas hiérarchiques : les objets étiquetés « 16e s. » sont distincts de ceux des subdivisions du siècle (ex. « 1ère moitié du 16e s. »). Choisir le siècle n’inclut donc pas les objets des moitiés ou des quarts, et il faut cocher chaque valeur séparément pour couvrir tout un siècle.
+
+Les périodes ne correspondent pas aux dates affichées dans le datepicker (seul 1896 - 1982 est disponible comme option, et elle n’est pas restreinte (ni agrandie) lorsqu’on sélectionne une ou plusieurs périodes). En fait, le datepicker ne renvoie aucun résultat lorsqu’on le régule…
+
+Les résultats sont triés par titre en ordre alphabétique, mais on peut également les trier par date, par « Participants » et par catégorie.
+
+La fiche de chaque objet inclut :
+
+« + » indique que ces champs comportent des hyperliens vers une recherche par cet élément. L’enrichissement des contenus se fait principalement par ces hyperliens
+
+des images de l’objet (l’interface permet de les télécharger !)
+
+les personnes associées+
+
+J’ai remarqué plusieurs relations possibles : Collecteur*euse, Couturier*ère, Fabricant*e, Créateur*ice / Designer, Porteur*euse / Utilisateur*trice. Cette précision enrichit la compréhension du contexte de création et de la vie de l'objet.
+
+période+, date
+
+localisation (continent > région > pays)+
+
+numéro d'inventaire
+
+matériel/technique
+
+dimensions
+
+catégorie+
+
+description
+
+Objets associés+
+
+Participants+ (redouble les infos des personnes associées)
+
+<division « afficher plus d’infos »>
+
+matériel+
+
+technique+
+
+Matériel et technique sont présentés deux fois sur la fiche, mais seulement la version qui est cachée sous la division avec le bouton « plus d’infos » est indexée et comporte les hyperliens.
+
+La page  principale affiche une recherche des objets, mais on peut également chercher dans une liste de « personnes ». Ces « personnes » incluent les personnes morales, telles que les maisons de couture et les manufacturiers.
+
+Les entrées de cette liste incluent : date, localisation, nationalité et biographie (description) en texte brut, puis les objets et « participants » (c-à-d personnes ; le vocabulaire n’est pas consistant) associés. Les relations entre ces personnes ne sont pas précisées. Les relations avec les objets sont seulement précisées dans la fiche de l’objet.
+
+L’utilisateur se fait ses propres parcours ; je n’ai pas remarqué de catégories thématiques, liées aux expositions, etc. La collection est présentée comme un corpus à explorer.
+
+Chaque fiche d’objet comprend un bouton permettant de contacter le musée pour poser des questions ou faire des commentaires sur l’objet. Ce n'est pas le cas pour les fiches des personnes.
+
+Il y a un fort accent sur la provenance de l’objet par les liens entre les objets et les personnes associées (les objets sont ainsi présentés comme étant les produits des relations sociales). Par contre, il y a moins d’emphase sur la création et la technique. Je pense que des fiches descriptives pour les techniques pourraient être un ajout intéressant à la découverte de la collection.
 
 [Retour Zoë : Un vrai effort de design du catalogue et en plus il est possible d'ajouter les œuvres en favoris pour faire sa sélection. Très cool ce catalogue. ]
 
@@ -1871,109 +1871,109 @@ La deuxième source externe proposée par l’IRBV est le GBIF (https://www.gbif
 C'est rare dans les catalogues de collections muséales. ]
 
 #Correction Sandrine : 
-    
+
 Il y a en effet différents mode de visualisation du catalogue : 
 
-    Tableau : ou l'on voit les spécimens les colonnes des filtres sélectionnées
-    
-    Carte : on peut sélectionner les spécimens selon sa position géographique
-    
-    Galerie : permet de faire une recherche axée sur l'image du spécimen
-    
-    Connexe : je n'ai pas trop comprit cette option...
-    
-    Télécharger ; permet de télécharger les spécimens, mais il faut avoir un compte avec GBIF.
+Tableau : ou l'on voit les spécimens les colonnes des filtres sélectionnées
+
+Carte : on peut sélectionner les spécimens selon sa position géographique
+
+Galerie : permet de faire une recherche axée sur l'image du spécimen
+
+Connexe : je n'ai pas trop comprit cette option...
+
+Télécharger ; permet de télécharger les spécimens, mais il faut avoir un compte avec GBIF.
 
 
  Pour chaqun, on peut choisir un ou plusieurs filtres (version abrégée) : 
 
-    Enregistrement : 
-    
-    Base de registre
-    
-    Licence 
-    
-    Une occurence :
-    
-    Degré de l'établissement 
-    
-    Mode d'établissement
-    
-    Numéro d'enregistrement
-    
-    Sexe 
-    
-    Stade de dévleoppement
-    
-    Type de média
-    
-    ...
-    
-    Séquence nucléotidique :
-    
-    Similitude des séquences
-    
-    Gêne cible
-    
-    ...
-    
-    Organisme : 
-    
-    ID de l'organisme 
-    
-    Identifications précédentes
-    
-    Entité matérielle :
-    
-    Préparations 
-    
-    Séquences associées
-    
-    Événement :
-    
-    Année
-    
-    Date de l'événement
-    
-    ID de l'évènement
-    
-    Numéro de terrain
-    
-    Protocole d'échantillonage
-    
-    ...
-    
-    Lieu :
-    
-    Altitude 
-    
-    Archipel
-    
-    Continent
-    
-    Profondeur
-    
-    Zone administrative
-    
-    ...
-    
-    Contexte géologique
-    
-    ...
-    
-    Identification
-    
-    ...
-    
-    Taxon
-    
-    ...
-    
-    Provenance 
-    
-    ...
-    
-    Autre (pour la recherche manuelle)
+Enregistrement : 
+
+Base de registre
+
+Licence 
+
+Une occurence :
+
+Degré de l'établissement 
+
+Mode d'établissement
+
+Numéro d'enregistrement
+
+Sexe 
+
+Stade de dévleoppement
+
+Type de média
+
+...
+
+Séquence nucléotidique :
+
+Similitude des séquences
+
+Gêne cible
+
+...
+
+Organisme : 
+
+ID de l'organisme 
+
+Identifications précédentes
+
+Entité matérielle :
+
+Préparations 
+
+Séquences associées
+
+Événement :
+
+Année
+
+Date de l'événement
+
+ID de l'évènement
+
+Numéro de terrain
+
+Protocole d'échantillonage
+
+...
+
+Lieu :
+
+Altitude 
+
+Archipel
+
+Continent
+
+Profondeur
+
+Zone administrative
+
+...
+
+Contexte géologique
+
+...
+
+Identification
+
+...
+
+Taxon
+
+...
+
+Provenance 
+
+...
+
+Autre (pour la recherche manuelle)
 
 
 Je dirais que ça s'adresse à un public plus spécialisé dans les sciences naturelles, puisque le nom du spécimen doit être écrit selon son nom vermiculaire. Je sent quand même qu'ils ont essayé de rendre la recherche plus accessible en offrant des indications pour chaque filtre. Par exemple, pour le « Mode d'établissement », on peut cliquer sur « information » et il sera écrit « Les moyens par lesquels l'organisme a été introduit à un endroit donné à un moment donné ». Aussi, le fait que chaque filtre a aussi des suggestions aide la personne à choisir des options, ce qui facilite la recherche si nous ne connaissons pas les spécifités de certains filtres. 
@@ -2041,13 +2041,13 @@ Le catalogue numérique du MUNAL
 J'ai choisi le MUNAL pour mon intérêt dans les musées d'art et l'histoire de Mexique.
 https://emuseum.acervomunal.org/collections/objects/23604
 
-    Comment le catalogue en ligne s'intègre-t-il au site du musée ? 
+Comment le catalogue en ligne s'intègre-t-il au site du musée ? 
 
 Il existe un lien vers les archives numérisées du musée réalisé sur la plateforme eMuseum (par le musée), accesible à travers des moteurs de recherche, mais il semble que la nouvelle version du site web ne propose pas d'accès direct à cette page. Son interface présente également un design différent de celui du site principal, ce qui donne l'impression que le catalogue n’a pas encore été pleinement intégré à la refonte du site et peut-être pas à jour.
 
 Le site web actuel présente seulement les noms des collections, sans offrir la possibilité de vraiment les explorer.
 
-    Quels sont les critères de recherche offerts et les points d'accès proposés ? 
+Quels sont les critères de recherche offerts et les points d'accès proposés ? 
 
 Le catalogue propose une recherche de base avec des mots-clés et dès points d'accès selon l'artiste ou la culture d'origine, la classification (peinture, estampe, photographie, objet utilitaire), la date, et le département de musée (peinture, arts graphiques, photographies).
 
@@ -2055,11 +2055,11 @@ Le homepage montre juste 41 objets (on dirait les œuvres les plus populaires), 
 
 La majorité des 3507 objets du catalogue sont accompagnés d'une image, mais certains restent sans référence visuelle, notamment les objets numismatiques. L'onglet Objects offre une vue d'ensemble des œuvres, qui peuvent ensuite être filtrés selon les classifications suivantes : peinture, estampe, imprimé, dessin, photographie, ornement, objet utilitaire, sculpture, matrice de gravure et revue. 
 
-    Quelles informations relatives aux artefacts sont-elles proposées aux utilisateurs ? 
+Quelles informations relatives aux artefacts sont-elles proposées aux utilisateurs ? 
 
 Titre de l'objet, nom de l'artiste / auteur (lorsqu'il est identifié), date de réalisation, technique / matériau, les dimensions et les informations relatives à l'appartenance de l'objet aux collections. 
 
-    Quels sont les rebonds et les liens proposés entre les artefacts ? 
+Quels sont les rebonds et les liens proposés entre les artefacts ? 
 
 La présentation des résultats favorise l'analyse et comparaison visuelle des objets. 
 
@@ -2069,7 +2069,7 @@ Toutefois, le moteur prend en compte les termes : José, un prénom courant au M
 
 La recherche affiche ainsi 678 résultats, dont certains ne sont pas directement liés à l'artiste. Malgré ça, ces objets peuvent constituer un complément d'étude en prenant en compte qu'ils permettent d'explorer le contexte culturel et religieux dans lequel s'inscrit son œuvre et identité. 
 
-    Comment les contenus sont-ils éditorialisés, quels enrichissements sont proposés ?
+Comment les contenus sont-ils éditorialisés, quels enrichissements sont proposés ?
 
 L'interface permet d'agrandir les images pour mieux apprécier les détails des œuvres, et montre des suggestions d'autres objets à découvrir similaires à celui présenté au premier plan.
 
@@ -2080,7 +2080,7 @@ L'image ne permet pas une exploration détaillée.
 
 Le site pourrait s'enrichir des textes explicatifs.
 
-    Quel discours sur la collection semble proposer le musée avec ce catalogue en ligne ?
+Quel discours sur la collection semble proposer le musée avec ce catalogue en ligne ?
 
 Dans l'optique que le MUNAL est un musée qui explore la construction de l'identité national à travers ses collections, il est intéressant de réfléchir aux choix des 41 objets sur la page principale. 
 
@@ -2103,11 +2103,11 @@ J'ai choisi le Château de Versailles car j'y suis déjà allée il y a plusieur
 
 Le catalogue se trouve très facilement. En effet, en appuyant sur l’icone d’ouverture du menu en haut à droite, on peut trouver au bas la mention « Les collections », qui nous amène directement à la page d’accueil du catalogue. 
 Le catalogue propose plusieurs onglets pour découvrir la collection :
-1)    Onglet Accueil : Permets d’avoir un aperçu de plusieurs des onglets en ayant accès à la barre de recherche, à des chefs d’œuvres à la une (images défilantes), aux recherches par thèmes et par lieux de présentation, aux actualités ainsi qu’à des liens annexes. Les liens annexes mènent vers quatre autres pages (Galeries historiques, Banque d’image du Centre de recherche, Versailles décor sculpté extérieur et Versailles la galerie des Glaces) qui mènent chacune vers leurs propres sites web qui ont leurs propres catalogues, permettant ainsi d’aller beaucoup plus loin dans sa recherche. La page d’accueil est claire et les méthodes de catégorisation sont facilement identifiables.
-2)    Onglet Rechercher : Cet onglet permet une recherche par critères avec possibilités de filtres présentés en ordre alphabétique. Les critères sont les suivants : Tous les critères, Domaine de collections, Titre ou désignation, N o d’inventaire, Personne représentée, Auteur, Date de création/Période et Emplacement. Cela offre plusieurs possibilités de recherches dans le catalogue selon les besoins, ce qui est utile vu le grand nombre d’œuvres au catalogue, soit 91 987 en incluant tous les critères. Le site permet aussi de préciser la recherche par types : Œuvres avec photos, Gravures de Louis-Philippe et Archives. Pour plus de précision, plusieurs des critères ont également des filtres qui permettent une recherche rapide et efficace. Il faut dire qu’en recherchant des termes trop vagues, les résultats deviennent vastes dû aux descriptions des œuvres. Par exemple, en recherchant «fille», le premier résultat est un portrait d’un homme nommé François-René Molé, mais qui contient dans sa description la spécification que le tableau a été légué par sa petite-fille. Avec un catalogue aussi grand, on peut comprendre la nécessité d’une catégorisation variée et détaillée pour favoriser la précision de recherche. L’accès à une page de recherche avancée avec une création de critères personnalisés se révèle aussi intéressant pour quelqu’un qui voudrait effectuer une recherche encore plus rigoureuse. Il est à noter que certains filtres sont plutôt vagues, notamment pour le critère Auteur qui contient plusieurs auteurs anonymes (ex. filtres : Anonyme Antiquité – 1 résultat, Anonyme antiquité romaine – 1 résultat). Aussi, dans le critère Désignation, on retrouve le filtre « affiche » qui donne 8 résultats, mais aussi le filtre « Affiche » qui en donne seulement un, ce qui est plutôt étrange et crée une redondance de filtre, mais pourrait aussi poser problème pour la recherche.
-3)    Onglet Thèmes : Pour en nommer que quelques-uns : Les salles des Croisades du château de Versailles, L’éducation des enfants de France, Chasses à la Cour, La mort mise en scène, Le portrait de famille, Les quatre saisons, etc. La recherche par thème offre une autre manière de recherche dans la collection en ciblant des regroupements d’œuvres. Très pratique!
-4)    Onglet Lieux de présentation : Regroupement en trois grands lieux : Château, Les Trianon, Jardins. Manière intéressante de rechercher, surtout pour un visiteur qui voudrait y aller en personne. Cette méthode de recherche se rattache directement au lieu physique et à la localisation des œuvres dans l’espace.
-5)    On peut accéder aussi aux Onglets Actualités, Présentation et Contacts / Aide. Moins utile pour la recherche d’un objet en particulier, ce sont des pages du site qui mettent en valeur les projets récents, le projet de collectionnement et l’historique de la collection. L’espace Aide à aussi un guide avec des conseils d’optimisation de la recherche afin de permettre une navigation efficace de leur base de données. Très utile en considérant les différentes options de recherches que le site propose. De cette manière on est bien équipé pour choisir l’outil qui est le plus pratique!
+1)Onglet Accueil : Permets d’avoir un aperçu de plusieurs des onglets en ayant accès à la barre de recherche, à des chefs d’œuvres à la une (images défilantes), aux recherches par thèmes et par lieux de présentation, aux actualités ainsi qu’à des liens annexes. Les liens annexes mènent vers quatre autres pages (Galeries historiques, Banque d’image du Centre de recherche, Versailles décor sculpté extérieur et Versailles la galerie des Glaces) qui mènent chacune vers leurs propres sites web qui ont leurs propres catalogues, permettant ainsi d’aller beaucoup plus loin dans sa recherche. La page d’accueil est claire et les méthodes de catégorisation sont facilement identifiables.
+2)Onglet Rechercher : Cet onglet permet une recherche par critères avec possibilités de filtres présentés en ordre alphabétique. Les critères sont les suivants : Tous les critères, Domaine de collections, Titre ou désignation, N o d’inventaire, Personne représentée, Auteur, Date de création/Période et Emplacement. Cela offre plusieurs possibilités de recherches dans le catalogue selon les besoins, ce qui est utile vu le grand nombre d’œuvres au catalogue, soit 91 987 en incluant tous les critères. Le site permet aussi de préciser la recherche par types : Œuvres avec photos, Gravures de Louis-Philippe et Archives. Pour plus de précision, plusieurs des critères ont également des filtres qui permettent une recherche rapide et efficace. Il faut dire qu’en recherchant des termes trop vagues, les résultats deviennent vastes dû aux descriptions des œuvres. Par exemple, en recherchant «fille», le premier résultat est un portrait d’un homme nommé François-René Molé, mais qui contient dans sa description la spécification que le tableau a été légué par sa petite-fille. Avec un catalogue aussi grand, on peut comprendre la nécessité d’une catégorisation variée et détaillée pour favoriser la précision de recherche. L’accès à une page de recherche avancée avec une création de critères personnalisés se révèle aussi intéressant pour quelqu’un qui voudrait effectuer une recherche encore plus rigoureuse. Il est à noter que certains filtres sont plutôt vagues, notamment pour le critère Auteur qui contient plusieurs auteurs anonymes (ex. filtres : Anonyme Antiquité – 1 résultat, Anonyme antiquité romaine – 1 résultat). Aussi, dans le critère Désignation, on retrouve le filtre « affiche » qui donne 8 résultats, mais aussi le filtre « Affiche » qui en donne seulement un, ce qui est plutôt étrange et crée une redondance de filtre, mais pourrait aussi poser problème pour la recherche.
+3)Onglet Thèmes : Pour en nommer que quelques-uns : Les salles des Croisades du château de Versailles, L’éducation des enfants de France, Chasses à la Cour, La mort mise en scène, Le portrait de famille, Les quatre saisons, etc. La recherche par thème offre une autre manière de recherche dans la collection en ciblant des regroupements d’œuvres. Très pratique!
+4)Onglet Lieux de présentation : Regroupement en trois grands lieux : Château, Les Trianon, Jardins. Manière intéressante de rechercher, surtout pour un visiteur qui voudrait y aller en personne. Cette méthode de recherche se rattache directement au lieu physique et à la localisation des œuvres dans l’espace.
+5)On peut accéder aussi aux Onglets Actualités, Présentation et Contacts / Aide. Moins utile pour la recherche d’un objet en particulier, ce sont des pages du site qui mettent en valeur les projets récents, le projet de collectionnement et l’historique de la collection. L’espace Aide à aussi un guide avec des conseils d’optimisation de la recherche afin de permettre une navigation efficace de leur base de données. Très utile en considérant les différentes options de recherches que le site propose. De cette manière on est bien équipé pour choisir l’outil qui est le plus pratique!
 
 Lorsqu’on sélectionne un objet dans le catalogue, en général, on retrouve la désignation, le numéro d’inventaire, le domaine, l’auteur, la date de création, l’emplacement et les dimensions en cm. Pour plusieurs de ces informations, on retrouve des hyperliens menant vers les objets portant la même mention. Pour certains objets, on y retrouve des photos, un petit aperçu historique, la matière/technique/personne représentée dans le cas d’œuvres d’art, et parfois une sélection d’objets similaires dans la collection, permettant de poursuivre une recherche avec des objets dans la même catégorie. 
 
@@ -2163,10 +2163,10 @@ Choix de procédure Spectrum: Cataloguage (cataloguing) et les changements qui y
 
 
 ## 2026-09-21 - TP01
-    Dans le pad collaboratif, inscrire :
-        votre nom,
-        le titre de l'objet choisi,
-        et les domaines de prédilection pour l'article. 
+Dans le pad collaboratif, inscrire :
+votre nom,
+le titre de l'objet choisi,
+et les domaines de prédilection pour l'article. 
 
 ### Ilona Krasnova
 
@@ -2256,17 +2256,17 @@ Ma motivation est de vous transmettre ma passion pour les bases de données ! Me
 
 Concernant l’organisation du travail, pour vous donner une idée de la réflexion que je vous demande : personellement, si je devais rédiger le travail final, je me fixerais des échéances dans mon calendrier, car j’ai tendance à travailler à la dernière minute. Pour 105h de travail personnel demandé, je dédierais 65h au travail final. Les échéances seraient :
 
-    18-25 septembre : recherche du sujet (3h)
-    25 septembre : fin des recherches de sujets et de la bibliographie
-    05 octobre : rendu du sujet
-    19-25 octobre : recherches sur le sujet et rédaction de la problématique (5h)
-    16-21 novembre : recherches et argumentation terminées (15h)
-    30 novembre : rendu du plan de cours détaillé avec les références bibliographiques
-    07 décembre : brouillon terminé (20h)
-    10 décembre : première version envoyée pour relecture à mes camarades ou proches
-    17 décembre : version finalisée – repos du texte (20h)
-    20 décembre : relecture et finalisation (2h)
-    21 décembre : rendu final
+18-25 septembre : recherche du sujet (3h)
+25 septembre : fin des recherches de sujets et de la bibliographie
+05 octobre : rendu du sujet
+19-25 octobre : recherches sur le sujet et rédaction de la problématique (5h)
+16-21 novembre : recherches et argumentation terminées (15h)
+30 novembre : rendu du plan de cours détaillé avec les références bibliographiques
+07 décembre : brouillon terminé (20h)
+10 décembre : première version envoyée pour relecture à mes camarades ou proches
+17 décembre : version finalisée – repos du texte (20h)
+20 décembre : relecture et finalisation (2h)
+21 décembre : rendu final
 
 TP : 40h dédiées aux TP et lectures en fonction de la difficulté.
 

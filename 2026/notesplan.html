@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Plan du cours 2026</title>
+  <link rel="stylesheet" href="./notes.css">
+</head>
+<body>
+  <nav id="toc" aria-label="Sommaire" hidden>
+    <h2>Sommaire</h2>
+    <ol></ol>
+  </nav>
+  <main id="notes-content" aria-live="polite">Chargement des notes…</main>
+  <script src="../plugin/markdown/markdown.js"></script>
+  <script>
+    const notesContent = document.getElementById('notes-content');
+
+    fetch('./_plan2026maj.md')
+      .then(response => {
+        if (!response.ok) throw new Error('Chargement impossible');
+        return response.text();
+      })
+      .then(markdown => {
+        notesContent.innerHTML = RevealMarkdown().marked(markdown);
+
+        const toc = document.getElementById('toc');
+        const tocItems = toc.querySelector('ol');
+        const sectionHeadings = notesContent.querySelectorAll('h2[id]');
+
+        sectionHeadings.forEach(heading => {
+          const item = document.createElement('li');
+          const link = document.createElement('a');
+          link.href = `#${heading.id}`;
+          link.textContent = heading.textContent;
+          item.append(link);
+          tocItems.append(item);
+        });
+
+        toc.hidden = sectionHeadings.length === 0;
+      })
+      .catch(() => {
+        notesContent.innerHTML = 'Impossible de charger les notes. <a href="./_plan2026maj.md">Ouvrir le fichier Markdown</a>.';
+      });
+  </script>
+</body>
+</html>
